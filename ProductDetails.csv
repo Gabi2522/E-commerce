@@ -1,0 +1,1459 @@
+﻿ProductID;ProductName;Category;Subcategory;BrandName;Price;StockAvailability
+1;VitaBoost Makeup Model #1;Beauty & Health;Makeup;VitaBoost;77.04;428
+2;ElectroBrand Laptops Model #2;Electronics;Laptops;ElectroBrand;857.28;52
+3;EcoThreads Jeans Model #3;Clothing;Jeans;EcoThreads;281.87;173
+4;KitchenWiz Bedding Model #4;Home & Kitchen;Bedding;KitchenWiz;295.47;64
+5;PureHealth Vitamins Model #5;Beauty & Health;Vitamins;PureHealth;49.57;226
+6;GadgetPro Laptops Model #6;Electronics;Laptops;GadgetPro;449.15;418
+7;GlowUp Makeup Model #7;Beauty & Health;Makeup;GlowUp;191.71;437
+8;ClassicFits Jeans Model #8;Clothing;Jeans;ClassicFits;258.20;345
+9;GadgetPro Laptops Model #9;Electronics;Laptops;GadgetPro;711.15;162
+10;EcoThreads T-Shirts Model #10;Clothing;T-Shirts;EcoThreads;214.43;177
+11;ElectroBrand Laptops Model #11;Electronics;Laptops;ElectroBrand;944.45;134
+12;CozyLiving Bedding Model #12;Home & Kitchen;Bedding;CozyLiving;460.20;85
+13;GadgetPro Smartphones Model #13;Electronics;Smartphones;GadgetPro;340.02;408
+14;ElectroBrand Smartphones Model #14;Electronics;Smartphones;ElectroBrand;501.15;170
+15;GadgetPro Headphones Model #15;Electronics;Headphones;GadgetPro;1383.24;402
+16;TechGiant Headphones Model #16;Electronics;Headphones;TechGiant;237.61;436
+17;ClassicFits Jackets Model #17;Clothing;Jackets;ClassicFits;234.35;66
+18;PureHealth Vitamins Model #18;Beauty & Health;Vitamins;PureHealth;80.60;133
+19;PureHealth Skincare Model #19;Beauty & Health;Skincare;PureHealth;130.50;93
+20;UrbanWear Jackets Model #20;Clothing;Jackets;UrbanWear;172.10;6
+21;GlowUp Skincare Model #21;Beauty & Health;Skincare;GlowUp;165.71;173
+22;HomeEssentials Bedding Model #22;Home & Kitchen;Bedding;HomeEssentials;83.79;460
+23;ClassicFits Jeans Model #23;Clothing;Jeans;ClassicFits;84.39;243
+24;VitaBoost Makeup Model #24;Beauty & Health;Makeup;VitaBoost;61.01;99
+25;CozyLiving Bedding Model #25;Home & Kitchen;Bedding;CozyLiving;261.01;211
+26;ClassicFits Jackets Model #26;Clothing;Jackets;ClassicFits;121.98;385
+27;GlowUp Skincare Model #27;Beauty & Health;Skincare;GlowUp;58.73;428
+28;UrbanWear Jeans Model #28;Clothing;Jeans;UrbanWear;132.97;468
+29;ElectroBrand Laptops Model #29;Electronics;Laptops;ElectroBrand;1363.03;5
+30;TechGiant Headphones Model #30;Electronics;Headphones;TechGiant;1206.48;434
+31;KitchenWiz Bedding Model #31;Home & Kitchen;Bedding;KitchenWiz;257.31;299
+32;GlowUp Vitamins Model #32;Beauty & Health;Vitamins;GlowUp;58.13;113
+33;UrbanWear Jackets Model #33;Clothing;Jackets;UrbanWear;86.55;5
+34;TechGiant Headphones Model #34;Electronics;Headphones;TechGiant;1874.45;436
+35;GlowUp Makeup Model #35;Beauty & Health;Makeup;GlowUp;99.41;58
+36;ClassicFits Jeans Model #36;Clothing;Jeans;ClassicFits;280.01;472
+37;VitaBoost Skincare Model #37;Beauty & Health;Skincare;VitaBoost;184.64;239
+38;GlowUp Skincare Model #38;Beauty & Health;Skincare;GlowUp;54.83;87
+39;UrbanWear T-Shirts Model #39;Clothing;T-Shirts;UrbanWear;47.47;178
+40;GlowUp Makeup Model #40;Beauty & Health;Makeup;GlowUp;76.45;274
+41;ElectroBrand Headphones Model #41;Electronics;Headphones;ElectroBrand;936.49;122
+42;HomeEssentials Bedding Model #42;Home & Kitchen;Bedding;HomeEssentials;245.35;223
+43;GlowUp Vitamins Model #43;Beauty & Health;Vitamins;GlowUp;72.96;385
+44;CozyLiving Bedding Model #44;Home & Kitchen;Bedding;CozyLiving;92.87;210
+45;PureHealth Makeup Model #45;Beauty & Health;Makeup;PureHealth;82.98;206
+46;PureHealth Makeup Model #46;Beauty & Health;Makeup;PureHealth;26.06;110
+47;GadgetPro Laptops Model #47;Electronics;Laptops;GadgetPro;1538.86;455
+48;GadgetPro Headphones Model #48;Electronics;Headphones;GadgetPro;370.08;200
+49;GlowUp Makeup Model #49;Beauty & Health;Makeup;GlowUp;175.56;45
+50;VitaBoost Vitamins Model #50;Beauty & Health;Vitamins;VitaBoost;127.14;247
+51;GadgetPro Smartphones Model #51;Electronics;Smartphones;GadgetPro;1939.85;401
+52;KitchenWiz Decor Model #52;Home & Kitchen;Decor;KitchenWiz;224.79;88
+53;HomeEssentials Bedding Model #53;Home & Kitchen;Bedding;HomeEssentials;87.84;401
+54;GlowUp Skincare Model #54;Beauty & Health;Skincare;GlowUp;199.65;212
+55;ElectroBrand Laptops Model #55;Electronics;Laptops;ElectroBrand;1249.49;372
+56;TechGiant Headphones Model #56;Electronics;Headphones;TechGiant;890.93;216
+57;KitchenWiz Decor Model #57;Home & Kitchen;Decor;KitchenWiz;386.61;238
+58;VitaBoost Makeup Model #58;Beauty & Health;Makeup;VitaBoost;188.67;287
+59;ElectroBrand Headphones Model #59;Electronics;Headphones;ElectroBrand;1667.74;333
+60;ElectroBrand Headphones Model #60;Electronics;Headphones;ElectroBrand;1573.11;106
+61;EcoThreads T-Shirts Model #61;Clothing;T-Shirts;EcoThreads;281.40;223
+62;CozyLiving Bedding Model #62;Home & Kitchen;Bedding;CozyLiving;197.65;113
+63;UrbanWear Jeans Model #63;Clothing;Jeans;UrbanWear;23.55;429
+64;HomeEssentials Decor Model #64;Home & Kitchen;Decor;HomeEssentials;200.62;61
+65;GadgetPro Laptops Model #65;Electronics;Laptops;GadgetPro;733.31;300
+66;ElectroBrand Laptops Model #66;Electronics;Laptops;ElectroBrand;615.75;29
+67;GadgetPro Laptops Model #67;Electronics;Laptops;GadgetPro;163.63;21
+68;PureHealth Skincare Model #68;Beauty & Health;Skincare;PureHealth;198.99;344
+69;VitaBoost Skincare Model #69;Beauty & Health;Skincare;VitaBoost;103.91;47
+70;GadgetPro Headphones Model #70;Electronics;Headphones;GadgetPro;865.81;395
+71;UrbanWear Jeans Model #71;Clothing;Jeans;UrbanWear;53.46;408
+72;GlowUp Skincare Model #72;Beauty & Health;Skincare;GlowUp;141.72;49
+73;GlowUp Vitamins Model #73;Beauty & Health;Vitamins;GlowUp;69.95;126
+74;ClassicFits Jeans Model #74;Clothing;Jeans;ClassicFits;134.67;69
+75;TechGiant Laptops Model #75;Electronics;Laptops;TechGiant;351.44;53
+76;VitaBoost Makeup Model #76;Beauty & Health;Makeup;VitaBoost;151.48;372
+77;HomeEssentials Decor Model #77;Home & Kitchen;Decor;HomeEssentials;373.96;293
+78;EcoThreads Jeans Model #78;Clothing;Jeans;EcoThreads;121.98;178
+79;HomeEssentials Decor Model #79;Home & Kitchen;Decor;HomeEssentials;194.16;227
+80;EcoThreads T-Shirts Model #80;Clothing;T-Shirts;EcoThreads;192.66;121
+81;HomeEssentials Cookware Model #81;Home & Kitchen;Cookware;HomeEssentials;130.99;258
+82;HomeEssentials Decor Model #82;Home & Kitchen;Decor;HomeEssentials;124.91;247
+83;HomeEssentials Cookware Model #83;Home & Kitchen;Cookware;HomeEssentials;276.27;138
+84;GadgetPro Smartphones Model #84;Electronics;Smartphones;GadgetPro;1963.45;489
+85;HomeEssentials Cookware Model #85;Home & Kitchen;Cookware;HomeEssentials;449.35;360
+86;ClassicFits Jeans Model #86;Clothing;Jeans;ClassicFits;66.09;84
+87;ElectroBrand Laptops Model #87;Electronics;Laptops;ElectroBrand;1291.07;414
+88;EcoThreads Jackets Model #88;Clothing;Jackets;EcoThreads;275.75;281
+89;KitchenWiz Decor Model #89;Home & Kitchen;Decor;KitchenWiz;132.36;210
+90;GlowUp Skincare Model #90;Beauty & Health;Skincare;GlowUp;50.87;466
+91;KitchenWiz Bedding Model #91;Home & Kitchen;Bedding;KitchenWiz;42.37;67
+92;UrbanWear Jeans Model #92;Clothing;Jeans;UrbanWear;63.03;51
+93;GadgetPro Smartphones Model #93;Electronics;Smartphones;GadgetPro;1927.62;225
+94;VitaBoost Skincare Model #94;Beauty & Health;Skincare;VitaBoost;124.11;377
+95;VitaBoost Vitamins Model #95;Beauty & Health;Vitamins;VitaBoost;99.80;358
+96;TechGiant Laptops Model #96;Electronics;Laptops;TechGiant;744.79;222
+97;KitchenWiz Bedding Model #97;Home & Kitchen;Bedding;KitchenWiz;180.55;456
+98;PureHealth Vitamins Model #98;Beauty & Health;Vitamins;PureHealth;136.70;106
+99;GadgetPro Laptops Model #99;Electronics;Laptops;GadgetPro;1395.80;353
+100;GlowUp Makeup Model #100;Beauty & Health;Makeup;GlowUp;59.26;91
+101;GadgetPro Headphones Model #101;Electronics;Headphones;GadgetPro;777.32;122
+102;GlowUp Vitamins Model #102;Beauty & Health;Vitamins;GlowUp;13.31;210
+103;CozyLiving Cookware Model #103;Home & Kitchen;Cookware;CozyLiving;346.04;135
+104;ClassicFits T-Shirts Model #104;Clothing;T-Shirts;ClassicFits;192.58;391
+105;EcoThreads Jackets Model #105;Clothing;Jackets;EcoThreads;233.99;201
+106;UrbanWear Jackets Model #106;Clothing;Jackets;UrbanWear;283.46;137
+107;EcoThreads Jeans Model #107;Clothing;Jeans;EcoThreads;261.70;125
+108;TechGiant Smartphones Model #108;Electronics;Smartphones;TechGiant;1796.72;246
+109;UrbanWear Jeans Model #109;Clothing;Jeans;UrbanWear;258.52;478
+110;TechGiant Smartphones Model #110;Electronics;Smartphones;TechGiant;744.26;26
+111;TechGiant Laptops Model #111;Electronics;Laptops;TechGiant;1509.83;172
+112;UrbanWear Jeans Model #112;Clothing;Jeans;UrbanWear;260.31;195
+113;VitaBoost Vitamins Model #113;Beauty & Health;Vitamins;VitaBoost;87.80;282
+114;VitaBoost Vitamins Model #114;Beauty & Health;Vitamins;VitaBoost;184.96;126
+115;GlowUp Vitamins Model #115;Beauty & Health;Vitamins;GlowUp;115.31;422
+116;CozyLiving Cookware Model #116;Home & Kitchen;Cookware;CozyLiving;19.53;116
+117;TechGiant Laptops Model #117;Electronics;Laptops;TechGiant;1746.72;430
+118;KitchenWiz Decor Model #118;Home & Kitchen;Decor;KitchenWiz;397.59;305
+119;ElectroBrand Headphones Model #119;Electronics;Headphones;ElectroBrand;295.58;272
+120;ElectroBrand Headphones Model #120;Electronics;Headphones;ElectroBrand;873.79;467
+121;HomeEssentials Cookware Model #121;Home & Kitchen;Cookware;HomeEssentials;191.14;74
+122;EcoThreads T-Shirts Model #122;Clothing;T-Shirts;EcoThreads;135.49;399
+123;HomeEssentials Decor Model #123;Home & Kitchen;Decor;HomeEssentials;360.95;248
+124;CozyLiving Cookware Model #124;Home & Kitchen;Cookware;CozyLiving;101.35;422
+125;ElectroBrand Smartphones Model #125;Electronics;Smartphones;ElectroBrand;1147.16;0
+126;PureHealth Makeup Model #126;Beauty & Health;Makeup;PureHealth;62.77;189
+127;UrbanWear Jeans Model #127;Clothing;Jeans;UrbanWear;259.74;185
+128;UrbanWear Jackets Model #128;Clothing;Jackets;UrbanWear;35.92;384
+129;GadgetPro Laptops Model #129;Electronics;Laptops;GadgetPro;1758.89;244
+130;ElectroBrand Headphones Model #130;Electronics;Headphones;ElectroBrand;909.20;27
+131;UrbanWear Jeans Model #131;Clothing;Jeans;UrbanWear;132.03;464
+132;KitchenWiz Decor Model #132;Home & Kitchen;Decor;KitchenWiz;215.50;268
+133;KitchenWiz Decor Model #133;Home & Kitchen;Decor;KitchenWiz;299.49;343
+134;KitchenWiz Decor Model #134;Home & Kitchen;Decor;KitchenWiz;498.08;464
+135;EcoThreads T-Shirts Model #135;Clothing;T-Shirts;EcoThreads;200.36;36
+136;PureHealth Makeup Model #136;Beauty & Health;Makeup;PureHealth;100.65;432
+137;KitchenWiz Decor Model #137;Home & Kitchen;Decor;KitchenWiz;104.07;224
+138;TechGiant Smartphones Model #138;Electronics;Smartphones;TechGiant;1504.52;366
+139;UrbanWear Jackets Model #139;Clothing;Jackets;UrbanWear;119.86;144
+140;EcoThreads Jeans Model #140;Clothing;Jeans;EcoThreads;297.53;232
+141;CozyLiving Cookware Model #141;Home & Kitchen;Cookware;CozyLiving;258.36;265
+142;HomeEssentials Cookware Model #142;Home & Kitchen;Cookware;HomeEssentials;39.48;77
+143;UrbanWear Jackets Model #143;Clothing;Jackets;UrbanWear;22.47;22
+144;UrbanWear Jackets Model #144;Clothing;Jackets;UrbanWear;174.81;175
+145;TechGiant Laptops Model #145;Electronics;Laptops;TechGiant;1335.41;458
+146;EcoThreads Jackets Model #146;Clothing;Jackets;EcoThreads;40.22;28
+147;TechGiant Smartphones Model #147;Electronics;Smartphones;TechGiant;1377.59;207
+148;EcoThreads Jackets Model #148;Clothing;Jackets;EcoThreads;297.90;344
+149;VitaBoost Vitamins Model #149;Beauty & Health;Vitamins;VitaBoost;67.38;481
+150;KitchenWiz Cookware Model #150;Home & Kitchen;Cookware;KitchenWiz;34.98;306
+151;KitchenWiz Decor Model #151;Home & Kitchen;Decor;KitchenWiz;442.84;260
+152;HomeEssentials Cookware Model #152;Home & Kitchen;Cookware;HomeEssentials;394.20;242
+153;GadgetPro Smartphones Model #153;Electronics;Smartphones;GadgetPro;1087.38;83
+154;GadgetPro Laptops Model #154;Electronics;Laptops;GadgetPro;869.95;98
+155;CozyLiving Cookware Model #155;Home & Kitchen;Cookware;CozyLiving;324.89;350
+156;CozyLiving Cookware Model #156;Home & Kitchen;Cookware;CozyLiving;102.88;134
+157;HomeEssentials Bedding Model #157;Home & Kitchen;Bedding;HomeEssentials;180.86;199
+158;CozyLiving Bedding Model #158;Home & Kitchen;Bedding;CozyLiving;435.15;112
+159;KitchenWiz Bedding Model #159;Home & Kitchen;Bedding;KitchenWiz;252.42;232
+160;PureHealth Vitamins Model #160;Beauty & Health;Vitamins;PureHealth;38.87;269
+161;KitchenWiz Cookware Model #161;Home & Kitchen;Cookware;KitchenWiz;63.70;472
+162;ClassicFits T-Shirts Model #162;Clothing;T-Shirts;ClassicFits;239.95;313
+163;HomeEssentials Cookware Model #163;Home & Kitchen;Cookware;HomeEssentials;294.53;457
+164;KitchenWiz Cookware Model #164;Home & Kitchen;Cookware;KitchenWiz;195.58;271
+165;PureHealth Makeup Model #165;Beauty & Health;Makeup;PureHealth;101.26;208
+166;EcoThreads T-Shirts Model #166;Clothing;T-Shirts;EcoThreads;91.96;388
+167;KitchenWiz Cookware Model #167;Home & Kitchen;Cookware;KitchenWiz;358.99;98
+168;VitaBoost Skincare Model #168;Beauty & Health;Skincare;VitaBoost;166.22;78
+169;VitaBoost Vitamins Model #169;Beauty & Health;Vitamins;VitaBoost;122.72;115
+170;ElectroBrand Laptops Model #170;Electronics;Laptops;ElectroBrand;1234.95;337
+171;ElectroBrand Headphones Model #171;Electronics;Headphones;ElectroBrand;595.00;238
+172;KitchenWiz Decor Model #172;Home & Kitchen;Decor;KitchenWiz;176.60;456
+173;VitaBoost Skincare Model #173;Beauty & Health;Skincare;VitaBoost;14.97;346
+174;HomeEssentials Cookware Model #174;Home & Kitchen;Cookware;HomeEssentials;210.88;47
+175;ElectroBrand Smartphones Model #175;Electronics;Smartphones;ElectroBrand;1066.40;414
+176;GlowUp Vitamins Model #176;Beauty & Health;Vitamins;GlowUp;121.19;408
+177;ElectroBrand Headphones Model #177;Electronics;Headphones;ElectroBrand;796.57;396
+178;GadgetPro Headphones Model #178;Electronics;Headphones;GadgetPro;1995.22;94
+179;KitchenWiz Decor Model #179;Home & Kitchen;Decor;KitchenWiz;136.51;202
+180;GlowUp Vitamins Model #180;Beauty & Health;Vitamins;GlowUp;94.49;62
+181;UrbanWear Jeans Model #181;Clothing;Jeans;UrbanWear;128.59;126
+182;CozyLiving Bedding Model #182;Home & Kitchen;Bedding;CozyLiving;462.86;254
+183;HomeEssentials Cookware Model #183;Home & Kitchen;Cookware;HomeEssentials;29.42;66
+184;CozyLiving Cookware Model #184;Home & Kitchen;Cookware;CozyLiving;388.77;4
+185;CozyLiving Cookware Model #185;Home & Kitchen;Cookware;CozyLiving;330.37;443
+186;CozyLiving Bedding Model #186;Home & Kitchen;Bedding;CozyLiving;357.57;210
+187;ClassicFits Jeans Model #187;Clothing;Jeans;ClassicFits;275.09;486
+188;VitaBoost Skincare Model #188;Beauty & Health;Skincare;VitaBoost;196.38;113
+189;KitchenWiz Bedding Model #189;Home & Kitchen;Bedding;KitchenWiz;286.32;354
+190;TechGiant Headphones Model #190;Electronics;Headphones;TechGiant;1294.50;240
+191;VitaBoost Vitamins Model #191;Beauty & Health;Vitamins;VitaBoost;15.08;322
+192;ElectroBrand Smartphones Model #192;Electronics;Smartphones;ElectroBrand;1044.02;389
+193;KitchenWiz Decor Model #193;Home & Kitchen;Decor;KitchenWiz;454.16;479
+194;CozyLiving Cookware Model #194;Home & Kitchen;Cookware;CozyLiving;300.96;178
+195;HomeEssentials Bedding Model #195;Home & Kitchen;Bedding;HomeEssentials;408.30;10
+196;GadgetPro Headphones Model #196;Electronics;Headphones;GadgetPro;1758.39;435
+197;CozyLiving Bedding Model #197;Home & Kitchen;Bedding;CozyLiving;441.11;459
+198;VitaBoost Vitamins Model #198;Beauty & Health;Vitamins;VitaBoost;183.44;84
+199;HomeEssentials Cookware Model #199;Home & Kitchen;Cookware;HomeEssentials;39.28;307
+200;TechGiant Smartphones Model #200;Electronics;Smartphones;TechGiant;1740.22;188
+201;CozyLiving Cookware Model #201;Home & Kitchen;Cookware;CozyLiving;179.59;471
+202;GlowUp Skincare Model #202;Beauty & Health;Skincare;GlowUp;91.12;6
+203;ClassicFits Jeans Model #203;Clothing;Jeans;ClassicFits;219.45;444
+204;VitaBoost Makeup Model #204;Beauty & Health;Makeup;VitaBoost;189.18;363
+205;ClassicFits Jackets Model #205;Clothing;Jackets;ClassicFits;187.28;375
+206;ClassicFits T-Shirts Model #206;Clothing;T-Shirts;ClassicFits;33.92;385
+207;HomeEssentials Decor Model #207;Home & Kitchen;Decor;HomeEssentials;471.44;211
+208;PureHealth Makeup Model #208;Beauty & Health;Makeup;PureHealth;172.37;304
+209;HomeEssentials Decor Model #209;Home & Kitchen;Decor;HomeEssentials;388.85;12
+210;VitaBoost Vitamins Model #210;Beauty & Health;Vitamins;VitaBoost;45.03;334
+211;CozyLiving Bedding Model #211;Home & Kitchen;Bedding;CozyLiving;234.65;96
+212;TechGiant Headphones Model #212;Electronics;Headphones;TechGiant;1127.07;438
+213;ElectroBrand Headphones Model #213;Electronics;Headphones;ElectroBrand;379.70;93
+214;KitchenWiz Decor Model #214;Home & Kitchen;Decor;KitchenWiz;85.82;472
+215;HomeEssentials Decor Model #215;Home & Kitchen;Decor;HomeEssentials;494.40;347
+216;EcoThreads Jeans Model #216;Clothing;Jeans;EcoThreads;259.78;262
+217;ElectroBrand Laptops Model #217;Electronics;Laptops;ElectroBrand;1884.38;135
+218;KitchenWiz Bedding Model #218;Home & Kitchen;Bedding;KitchenWiz;457.07;471
+219;KitchenWiz Bedding Model #219;Home & Kitchen;Bedding;KitchenWiz;202.69;70
+220;HomeEssentials Cookware Model #220;Home & Kitchen;Cookware;HomeEssentials;498.67;160
+221;TechGiant Laptops Model #221;Electronics;Laptops;TechGiant;1422.78;446
+222;ElectroBrand Smartphones Model #222;Electronics;Smartphones;ElectroBrand;1231.98;97
+223;EcoThreads Jackets Model #223;Clothing;Jackets;EcoThreads;115.70;19
+224;VitaBoost Makeup Model #224;Beauty & Health;Makeup;VitaBoost;16.77;301
+225;ClassicFits T-Shirts Model #225;Clothing;T-Shirts;ClassicFits;165.89;388
+226;EcoThreads T-Shirts Model #226;Clothing;T-Shirts;EcoThreads;276.87;261
+227;TechGiant Laptops Model #227;Electronics;Laptops;TechGiant;1832.42;137
+228;HomeEssentials Bedding Model #228;Home & Kitchen;Bedding;HomeEssentials;494.16;166
+229;VitaBoost Skincare Model #229;Beauty & Health;Skincare;VitaBoost;22.18;192
+230;UrbanWear Jeans Model #230;Clothing;Jeans;UrbanWear;205.45;11
+231;TechGiant Smartphones Model #231;Electronics;Smartphones;TechGiant;1992.77;85
+232;GadgetPro Smartphones Model #232;Electronics;Smartphones;GadgetPro;1309.46;325
+233;HomeEssentials Cookware Model #233;Home & Kitchen;Cookware;HomeEssentials;68.74;395
+234;HomeEssentials Decor Model #234;Home & Kitchen;Decor;HomeEssentials;412.64;310
+235;ClassicFits T-Shirts Model #235;Clothing;T-Shirts;ClassicFits;83.22;62
+236;ElectroBrand Laptops Model #236;Electronics;Laptops;ElectroBrand;1971.49;72
+237;PureHealth Makeup Model #237;Beauty & Health;Makeup;PureHealth;120.64;192
+238;ClassicFits Jackets Model #238;Clothing;Jackets;ClassicFits;149.00;435
+239;ClassicFits Jackets Model #239;Clothing;Jackets;ClassicFits;180.33;360
+240;PureHealth Makeup Model #240;Beauty & Health;Makeup;PureHealth;14.29;102
+241;UrbanWear Jeans Model #241;Clothing;Jeans;UrbanWear;281.38;367
+242;VitaBoost Skincare Model #242;Beauty & Health;Skincare;VitaBoost;128.59;265
+243;ElectroBrand Laptops Model #243;Electronics;Laptops;ElectroBrand;1563.52;70
+244;UrbanWear Jackets Model #244;Clothing;Jackets;UrbanWear;237.04;126
+245;KitchenWiz Cookware Model #245;Home & Kitchen;Cookware;KitchenWiz;253.78;185
+246;TechGiant Smartphones Model #246;Electronics;Smartphones;TechGiant;1606.59;109
+247;TechGiant Smartphones Model #247;Electronics;Smartphones;TechGiant;1854.18;238
+248;CozyLiving Decor Model #248;Home & Kitchen;Decor;CozyLiving;314.75;177
+249;CozyLiving Decor Model #249;Home & Kitchen;Decor;CozyLiving;295.13;344
+250;CozyLiving Bedding Model #250;Home & Kitchen;Bedding;CozyLiving;427.97;431
+251;KitchenWiz Decor Model #251;Home & Kitchen;Decor;KitchenWiz;109.80;274
+252;TechGiant Smartphones Model #252;Electronics;Smartphones;TechGiant;856.63;392
+253;GadgetPro Headphones Model #253;Electronics;Headphones;GadgetPro;848.43;85
+254;ClassicFits Jeans Model #254;Clothing;Jeans;ClassicFits;155.55;324
+255;CozyLiving Bedding Model #255;Home & Kitchen;Bedding;CozyLiving;313.89;295
+256;CozyLiving Decor Model #256;Home & Kitchen;Decor;CozyLiving;452.94;213
+257;VitaBoost Vitamins Model #257;Beauty & Health;Vitamins;VitaBoost;156.93;69
+258;GlowUp Skincare Model #258;Beauty & Health;Skincare;GlowUp;96.56;368
+259;VitaBoost Makeup Model #259;Beauty & Health;Makeup;VitaBoost;160.79;470
+260;GadgetPro Smartphones Model #260;Electronics;Smartphones;GadgetPro;1638.59;216
+261;ElectroBrand Headphones Model #261;Electronics;Headphones;ElectroBrand;707.30;273
+262;ElectroBrand Smartphones Model #262;Electronics;Smartphones;ElectroBrand;1589.76;355
+263;TechGiant Laptops Model #263;Electronics;Laptops;TechGiant;880.59;157
+264;PureHealth Skincare Model #264;Beauty & Health;Skincare;PureHealth;130.80;35
+265;UrbanWear Jeans Model #265;Clothing;Jeans;UrbanWear;161.47;248
+266;GlowUp Makeup Model #266;Beauty & Health;Makeup;GlowUp;74.05;309
+267;PureHealth Vitamins Model #267;Beauty & Health;Vitamins;PureHealth;133.16;12
+268;ClassicFits T-Shirts Model #268;Clothing;T-Shirts;ClassicFits;21.61;232
+269;VitaBoost Makeup Model #269;Beauty & Health;Makeup;VitaBoost;199.38;334
+270;VitaBoost Skincare Model #270;Beauty & Health;Skincare;VitaBoost;169.88;113
+271;EcoThreads Jeans Model #271;Clothing;Jeans;EcoThreads;171.43;9
+272;CozyLiving Decor Model #272;Home & Kitchen;Decor;CozyLiving;72.99;358
+273;TechGiant Smartphones Model #273;Electronics;Smartphones;TechGiant;1669.71;24
+274;PureHealth Skincare Model #274;Beauty & Health;Skincare;PureHealth;21.11;277
+275;CozyLiving Decor Model #275;Home & Kitchen;Decor;CozyLiving;59.74;392
+276;VitaBoost Makeup Model #276;Beauty & Health;Makeup;VitaBoost;172.99;246
+277;ElectroBrand Smartphones Model #277;Electronics;Smartphones;ElectroBrand;702.96;190
+278;HomeEssentials Bedding Model #278;Home & Kitchen;Bedding;HomeEssentials;106.11;389
+279;TechGiant Smartphones Model #279;Electronics;Smartphones;TechGiant;258.21;346
+280;CozyLiving Bedding Model #280;Home & Kitchen;Bedding;CozyLiving;267.52;370
+281;CozyLiving Decor Model #281;Home & Kitchen;Decor;CozyLiving;296.40;442
+282;HomeEssentials Decor Model #282;Home & Kitchen;Decor;HomeEssentials;253.14;222
+283;HomeEssentials Bedding Model #283;Home & Kitchen;Bedding;HomeEssentials;179.18;87
+284;TechGiant Headphones Model #284;Electronics;Headphones;TechGiant;1520.89;252
+285;TechGiant Headphones Model #285;Electronics;Headphones;TechGiant;1324.16;134
+286;TechGiant Smartphones Model #286;Electronics;Smartphones;TechGiant;1759.95;146
+287;UrbanWear Jackets Model #287;Clothing;Jackets;UrbanWear;276.74;184
+288;ElectroBrand Smartphones Model #288;Electronics;Smartphones;ElectroBrand;1777.89;383
+289;GadgetPro Laptops Model #289;Electronics;Laptops;GadgetPro;840.23;99
+290;UrbanWear T-Shirts Model #290;Clothing;T-Shirts;UrbanWear;103.13;456
+291;UrbanWear Jackets Model #291;Clothing;Jackets;UrbanWear;267.87;87
+292;UrbanWear T-Shirts Model #292;Clothing;T-Shirts;UrbanWear;259.91;341
+293;TechGiant Smartphones Model #293;Electronics;Smartphones;TechGiant;355.43;395
+294;TechGiant Headphones Model #294;Electronics;Headphones;TechGiant;1281.23;131
+295;KitchenWiz Cookware Model #295;Home & Kitchen;Cookware;KitchenWiz;266.70;42
+296;UrbanWear Jackets Model #296;Clothing;Jackets;UrbanWear;161.32;80
+297;GadgetPro Headphones Model #297;Electronics;Headphones;GadgetPro;1701.15;452
+298;EcoThreads T-Shirts Model #298;Clothing;T-Shirts;EcoThreads;31.49;452
+299;VitaBoost Makeup Model #299;Beauty & Health;Makeup;VitaBoost;34.07;250
+300;ClassicFits T-Shirts Model #300;Clothing;T-Shirts;ClassicFits;46.35;189
+301;TechGiant Headphones Model #301;Electronics;Headphones;TechGiant;1626.01;45
+302;HomeEssentials Bedding Model #302;Home & Kitchen;Bedding;HomeEssentials;419.83;466
+303;PureHealth Skincare Model #303;Beauty & Health;Skincare;PureHealth;192.65;345
+304;UrbanWear Jeans Model #304;Clothing;Jeans;UrbanWear;163.42;86
+305;ClassicFits T-Shirts Model #305;Clothing;T-Shirts;ClassicFits;123.74;269
+306;GadgetPro Headphones Model #306;Electronics;Headphones;GadgetPro;1102.23;338
+307;CozyLiving Bedding Model #307;Home & Kitchen;Bedding;CozyLiving;122.16;448
+308;GadgetPro Laptops Model #308;Electronics;Laptops;GadgetPro;344.82;493
+309;TechGiant Laptops Model #309;Electronics;Laptops;TechGiant;1695.48;8
+310;EcoThreads Jeans Model #310;Clothing;Jeans;EcoThreads;270.44;183
+311;GlowUp Makeup Model #311;Beauty & Health;Makeup;GlowUp;17.63;282
+312;ClassicFits Jackets Model #312;Clothing;Jackets;ClassicFits;259.20;136
+313;HomeEssentials Cookware Model #313;Home & Kitchen;Cookware;HomeEssentials;447.00;27
+314;VitaBoost Skincare Model #314;Beauty & Health;Skincare;VitaBoost;199.16;7
+315;HomeEssentials Decor Model #315;Home & Kitchen;Decor;HomeEssentials;132.85;41
+316;GlowUp Skincare Model #316;Beauty & Health;Skincare;GlowUp;167.76;147
+317;TechGiant Headphones Model #317;Electronics;Headphones;TechGiant;358.11;21
+318;CozyLiving Decor Model #318;Home & Kitchen;Decor;CozyLiving;149.99;174
+319;GadgetPro Smartphones Model #319;Electronics;Smartphones;GadgetPro;484.21;65
+320;TechGiant Laptops Model #320;Electronics;Laptops;TechGiant;970.57;388
+321;VitaBoost Makeup Model #321;Beauty & Health;Makeup;VitaBoost;102.20;83
+322;ElectroBrand Laptops Model #322;Electronics;Laptops;ElectroBrand;252.23;55
+323;GadgetPro Laptops Model #323;Electronics;Laptops;GadgetPro;1898.41;446
+324;TechGiant Headphones Model #324;Electronics;Headphones;TechGiant;877.28;463
+325;VitaBoost Vitamins Model #325;Beauty & Health;Vitamins;VitaBoost;179.03;462
+326;KitchenWiz Bedding Model #326;Home & Kitchen;Bedding;KitchenWiz;344.05;460
+327;ClassicFits Jackets Model #327;Clothing;Jackets;ClassicFits;123.83;345
+328;VitaBoost Makeup Model #328;Beauty & Health;Makeup;VitaBoost;191.73;89
+329;ClassicFits Jackets Model #329;Clothing;Jackets;ClassicFits;41.20;185
+330;PureHealth Makeup Model #330;Beauty & Health;Makeup;PureHealth;28.08;20
+331;ElectroBrand Laptops Model #331;Electronics;Laptops;ElectroBrand;1653.51;341
+332;PureHealth Vitamins Model #332;Beauty & Health;Vitamins;PureHealth;70.77;248
+333;EcoThreads Jeans Model #333;Clothing;Jeans;EcoThreads;220.83;249
+334;KitchenWiz Cookware Model #334;Home & Kitchen;Cookware;KitchenWiz;32.22;65
+335;GlowUp Makeup Model #335;Beauty & Health;Makeup;GlowUp;46.79;341
+336;HomeEssentials Cookware Model #336;Home & Kitchen;Cookware;HomeEssentials;26.80;420
+337;ElectroBrand Headphones Model #337;Electronics;Headphones;ElectroBrand;1959.43;223
+338;ElectroBrand Laptops Model #338;Electronics;Laptops;ElectroBrand;874.71;10
+339;TechGiant Smartphones Model #339;Electronics;Smartphones;TechGiant;1852.38;38
+340;CozyLiving Decor Model #340;Home & Kitchen;Decor;CozyLiving;298.23;376
+341;HomeEssentials Decor Model #341;Home & Kitchen;Decor;HomeEssentials;295.73;129
+342;ClassicFits Jeans Model #342;Clothing;Jeans;ClassicFits;254.20;449
+343;GlowUp Makeup Model #343;Beauty & Health;Makeup;GlowUp;103.52;69
+344;PureHealth Makeup Model #344;Beauty & Health;Makeup;PureHealth;66.38;51
+345;VitaBoost Vitamins Model #345;Beauty & Health;Vitamins;VitaBoost;89.35;110
+346;UrbanWear Jeans Model #346;Clothing;Jeans;UrbanWear;105.81;16
+347;GadgetPro Laptops Model #347;Electronics;Laptops;GadgetPro;1866.56;74
+348;KitchenWiz Cookware Model #348;Home & Kitchen;Cookware;KitchenWiz;277.23;17
+349;TechGiant Laptops Model #349;Electronics;Laptops;TechGiant;389.98;385
+350;CozyLiving Decor Model #350;Home & Kitchen;Decor;CozyLiving;297.30;462
+351;KitchenWiz Decor Model #351;Home & Kitchen;Decor;KitchenWiz;340.07;243
+352;HomeEssentials Bedding Model #352;Home & Kitchen;Bedding;HomeEssentials;77.80;57
+353;VitaBoost Vitamins Model #353;Beauty & Health;Vitamins;VitaBoost;25.86;111
+354;TechGiant Headphones Model #354;Electronics;Headphones;TechGiant;1549.55;105
+355;GlowUp Vitamins Model #355;Beauty & Health;Vitamins;GlowUp;119.05;86
+356;TechGiant Smartphones Model #356;Electronics;Smartphones;TechGiant;907.70;230
+357;EcoThreads Jeans Model #357;Clothing;Jeans;EcoThreads;131.41;101
+358;HomeEssentials Bedding Model #358;Home & Kitchen;Bedding;HomeEssentials;15.00;175
+359;PureHealth Vitamins Model #359;Beauty & Health;Vitamins;PureHealth;15.76;34
+360;ElectroBrand Headphones Model #360;Electronics;Headphones;ElectroBrand;1032.85;359
+361;PureHealth Vitamins Model #361;Beauty & Health;Vitamins;PureHealth;160.61;319
+362;KitchenWiz Cookware Model #362;Home & Kitchen;Cookware;KitchenWiz;424.81;266
+363;ClassicFits Jeans Model #363;Clothing;Jeans;ClassicFits;245.37;430
+364;GlowUp Vitamins Model #364;Beauty & Health;Vitamins;GlowUp;72.59;106
+365;GlowUp Skincare Model #365;Beauty & Health;Skincare;GlowUp;20.07;475
+366;GlowUp Vitamins Model #366;Beauty & Health;Vitamins;GlowUp;196.30;279
+367;HomeEssentials Bedding Model #367;Home & Kitchen;Bedding;HomeEssentials;394.83;261
+368;ElectroBrand Laptops Model #368;Electronics;Laptops;ElectroBrand;1304.51;380
+369;GlowUp Makeup Model #369;Beauty & Health;Makeup;GlowUp;196.31;221
+370;ClassicFits Jackets Model #370;Clothing;Jackets;ClassicFits;271.76;107
+371;EcoThreads Jeans Model #371;Clothing;Jeans;EcoThreads;137.69;435
+372;GadgetPro Laptops Model #372;Electronics;Laptops;GadgetPro;1192.53;162
+373;ClassicFits T-Shirts Model #373;Clothing;T-Shirts;ClassicFits;193.64;237
+374;HomeEssentials Decor Model #374;Home & Kitchen;Decor;HomeEssentials;314.40;476
+375;GadgetPro Laptops Model #375;Electronics;Laptops;GadgetPro;226.98;52
+376;TechGiant Smartphones Model #376;Electronics;Smartphones;TechGiant;979.91;165
+377;GadgetPro Laptops Model #377;Electronics;Laptops;GadgetPro;1255.34;315
+378;GadgetPro Headphones Model #378;Electronics;Headphones;GadgetPro;1940.38;186
+379;CozyLiving Cookware Model #379;Home & Kitchen;Cookware;CozyLiving;116.94;345
+380;KitchenWiz Cookware Model #380;Home & Kitchen;Cookware;KitchenWiz;45.81;385
+381;CozyLiving Bedding Model #381;Home & Kitchen;Bedding;CozyLiving;338.00;385
+382;UrbanWear Jeans Model #382;Clothing;Jeans;UrbanWear;296.42;475
+383;UrbanWear Jackets Model #383;Clothing;Jackets;UrbanWear;121.89;94
+384;ClassicFits Jackets Model #384;Clothing;Jackets;ClassicFits;228.34;336
+385;GadgetPro Smartphones Model #385;Electronics;Smartphones;GadgetPro;1214.20;16
+386;VitaBoost Makeup Model #386;Beauty & Health;Makeup;VitaBoost;164.78;324
+387;TechGiant Headphones Model #387;Electronics;Headphones;TechGiant;1598.96;380
+388;ClassicFits Jeans Model #388;Clothing;Jeans;ClassicFits;52.10;430
+389;GlowUp Skincare Model #389;Beauty & Health;Skincare;GlowUp;35.78;219
+390;ClassicFits Jeans Model #390;Clothing;Jeans;ClassicFits;284.86;80
+391;HomeEssentials Bedding Model #391;Home & Kitchen;Bedding;HomeEssentials;275.35;371
+392;ElectroBrand Laptops Model #392;Electronics;Laptops;ElectroBrand;741.28;160
+393;EcoThreads T-Shirts Model #393;Clothing;T-Shirts;EcoThreads;33.34;480
+394;KitchenWiz Bedding Model #394;Home & Kitchen;Bedding;KitchenWiz;76.57;473
+395;ElectroBrand Headphones Model #395;Electronics;Headphones;ElectroBrand;1318.05;264
+396;PureHealth Vitamins Model #396;Beauty & Health;Vitamins;PureHealth;152.18;4
+397;ElectroBrand Headphones Model #397;Electronics;Headphones;ElectroBrand;1003.84;105
+398;KitchenWiz Bedding Model #398;Home & Kitchen;Bedding;KitchenWiz;255.23;379
+399;ElectroBrand Headphones Model #399;Electronics;Headphones;ElectroBrand;1077.86;174
+400;EcoThreads Jackets Model #400;Clothing;Jackets;EcoThreads;167.18;303
+401;CozyLiving Bedding Model #401;Home & Kitchen;Bedding;CozyLiving;458.59;498
+402;PureHealth Makeup Model #402;Beauty & Health;Makeup;PureHealth;193.25;45
+403;VitaBoost Vitamins Model #403;Beauty & Health;Vitamins;VitaBoost;129.58;262
+404;ElectroBrand Laptops Model #404;Electronics;Laptops;ElectroBrand;428.71;415
+405;GadgetPro Headphones Model #405;Electronics;Headphones;GadgetPro;650.20;414
+406;TechGiant Smartphones Model #406;Electronics;Smartphones;TechGiant;184.09;8
+407;VitaBoost Skincare Model #407;Beauty & Health;Skincare;VitaBoost;143.82;31
+408;GadgetPro Smartphones Model #408;Electronics;Smartphones;GadgetPro;1852.67;54
+409;ElectroBrand Laptops Model #409;Electronics;Laptops;ElectroBrand;467.41;370
+410;VitaBoost Skincare Model #410;Beauty & Health;Skincare;VitaBoost;24.06;51
+411;GadgetPro Smartphones Model #411;Electronics;Smartphones;GadgetPro;1565.88;336
+412;CozyLiving Bedding Model #412;Home & Kitchen;Bedding;CozyLiving;392.73;239
+413;ClassicFits T-Shirts Model #413;Clothing;T-Shirts;ClassicFits;286.87;380
+414;GlowUp Makeup Model #414;Beauty & Health;Makeup;GlowUp;118.01;454
+415;GlowUp Makeup Model #415;Beauty & Health;Makeup;GlowUp;34.95;395
+416;ClassicFits Jeans Model #416;Clothing;Jeans;ClassicFits;41.51;156
+417;PureHealth Makeup Model #417;Beauty & Health;Makeup;PureHealth;192.49;408
+418;HomeEssentials Decor Model #418;Home & Kitchen;Decor;HomeEssentials;467.65;342
+419;EcoThreads Jackets Model #419;Clothing;Jackets;EcoThreads;227.99;161
+420;VitaBoost Skincare Model #420;Beauty & Health;Skincare;VitaBoost;178.57;94
+421;TechGiant Laptops Model #421;Electronics;Laptops;TechGiant;892.53;115
+422;CozyLiving Decor Model #422;Home & Kitchen;Decor;CozyLiving;281.06;17
+423;UrbanWear T-Shirts Model #423;Clothing;T-Shirts;UrbanWear;90.80;169
+424;TechGiant Headphones Model #424;Electronics;Headphones;TechGiant;1572.58;391
+425;TechGiant Smartphones Model #425;Electronics;Smartphones;TechGiant;1104.32;442
+426;GlowUp Skincare Model #426;Beauty & Health;Skincare;GlowUp;10.45;323
+427;VitaBoost Skincare Model #427;Beauty & Health;Skincare;VitaBoost;180.14;254
+428;HomeEssentials Cookware Model #428;Home & Kitchen;Cookware;HomeEssentials;65.21;423
+429;GlowUp Skincare Model #429;Beauty & Health;Skincare;GlowUp;136.23;120
+430;GadgetPro Smartphones Model #430;Electronics;Smartphones;GadgetPro;1541.85;211
+431;TechGiant Headphones Model #431;Electronics;Headphones;TechGiant;1057.13;46
+432;VitaBoost Skincare Model #432;Beauty & Health;Skincare;VitaBoost;183.68;279
+433;ClassicFits T-Shirts Model #433;Clothing;T-Shirts;ClassicFits;50.42;386
+434;GlowUp Vitamins Model #434;Beauty & Health;Vitamins;GlowUp;184.22;45
+435;CozyLiving Bedding Model #435;Home & Kitchen;Bedding;CozyLiving;215.09;104
+436;PureHealth Vitamins Model #436;Beauty & Health;Vitamins;PureHealth;197.19;472
+437;CozyLiving Decor Model #437;Home & Kitchen;Decor;CozyLiving;49.13;480
+438;PureHealth Skincare Model #438;Beauty & Health;Skincare;PureHealth;172.72;236
+439;CozyLiving Cookware Model #439;Home & Kitchen;Cookware;CozyLiving;249.07;77
+440;ElectroBrand Headphones Model #440;Electronics;Headphones;ElectroBrand;1707.59;59
+441;PureHealth Makeup Model #441;Beauty & Health;Makeup;PureHealth;141.86;97
+442;VitaBoost Makeup Model #442;Beauty & Health;Makeup;VitaBoost;191.24;471
+443;PureHealth Skincare Model #443;Beauty & Health;Skincare;PureHealth;197.47;484
+444;TechGiant Headphones Model #444;Electronics;Headphones;TechGiant;1296.94;265
+445;GadgetPro Laptops Model #445;Electronics;Laptops;GadgetPro;1872.86;341
+446;EcoThreads Jeans Model #446;Clothing;Jeans;EcoThreads;212.10;194
+447;HomeEssentials Cookware Model #447;Home & Kitchen;Cookware;HomeEssentials;161.21;481
+448;KitchenWiz Cookware Model #448;Home & Kitchen;Cookware;KitchenWiz;258.71;394
+449;EcoThreads Jackets Model #449;Clothing;Jackets;EcoThreads;272.32;433
+450;CozyLiving Bedding Model #450;Home & Kitchen;Bedding;CozyLiving;276.82;276
+451;ClassicFits T-Shirts Model #451;Clothing;T-Shirts;ClassicFits;97.47;454
+452;TechGiant Laptops Model #452;Electronics;Laptops;TechGiant;1805.23;78
+453;ElectroBrand Headphones Model #453;Electronics;Headphones;ElectroBrand;1824.62;477
+454;VitaBoost Makeup Model #454;Beauty & Health;Makeup;VitaBoost;198.87;266
+455;GlowUp Skincare Model #455;Beauty & Health;Skincare;GlowUp;98.43;19
+456;EcoThreads Jackets Model #456;Clothing;Jackets;EcoThreads;186.88;129
+457;KitchenWiz Cookware Model #457;Home & Kitchen;Cookware;KitchenWiz;369.27;289
+458;HomeEssentials Cookware Model #458;Home & Kitchen;Cookware;HomeEssentials;189.93;78
+459;GadgetPro Laptops Model #459;Electronics;Laptops;GadgetPro;491.87;70
+460;VitaBoost Skincare Model #460;Beauty & Health;Skincare;VitaBoost;46.54;407
+461;ClassicFits T-Shirts Model #461;Clothing;T-Shirts;ClassicFits;98.77;292
+462;PureHealth Skincare Model #462;Beauty & Health;Skincare;PureHealth;34.46;327
+463;GlowUp Vitamins Model #463;Beauty & Health;Vitamins;GlowUp;199.41;284
+464;KitchenWiz Bedding Model #464;Home & Kitchen;Bedding;KitchenWiz;493.28;331
+465;TechGiant Laptops Model #465;Electronics;Laptops;TechGiant;1966.42;298
+466;HomeEssentials Bedding Model #466;Home & Kitchen;Bedding;HomeEssentials;334.14;172
+467;PureHealth Skincare Model #467;Beauty & Health;Skincare;PureHealth;33.48;312
+468;KitchenWiz Decor Model #468;Home & Kitchen;Decor;KitchenWiz;496.83;318
+469;EcoThreads T-Shirts Model #469;Clothing;T-Shirts;EcoThreads;109.53;93
+470;HomeEssentials Decor Model #470;Home & Kitchen;Decor;HomeEssentials;141.38;46
+471;PureHealth Makeup Model #471;Beauty & Health;Makeup;PureHealth;87.44;296
+472;HomeEssentials Bedding Model #472;Home & Kitchen;Bedding;HomeEssentials;350.33;90
+473;ElectroBrand Smartphones Model #473;Electronics;Smartphones;ElectroBrand;760.92;157
+474;KitchenWiz Decor Model #474;Home & Kitchen;Decor;KitchenWiz;194.25;347
+475;KitchenWiz Bedding Model #475;Home & Kitchen;Bedding;KitchenWiz;166.25;312
+476;KitchenWiz Decor Model #476;Home & Kitchen;Decor;KitchenWiz;357.21;330
+477;ElectroBrand Headphones Model #477;Electronics;Headphones;ElectroBrand;1307.49;410
+478;CozyLiving Bedding Model #478;Home & Kitchen;Bedding;CozyLiving;405.36;120
+479;GadgetPro Smartphones Model #479;Electronics;Smartphones;GadgetPro;1944.04;424
+480;GadgetPro Headphones Model #480;Electronics;Headphones;GadgetPro;1252.09;169
+481;VitaBoost Makeup Model #481;Beauty & Health;Makeup;VitaBoost;74.17;1
+482;KitchenWiz Bedding Model #482;Home & Kitchen;Bedding;KitchenWiz;368.78;448
+483;KitchenWiz Cookware Model #483;Home & Kitchen;Cookware;KitchenWiz;375.71;221
+484;TechGiant Laptops Model #484;Electronics;Laptops;TechGiant;1304.88;288
+485;GadgetPro Headphones Model #485;Electronics;Headphones;GadgetPro;785.54;30
+486;PureHealth Skincare Model #486;Beauty & Health;Skincare;PureHealth;26.63;105
+487;GadgetPro Smartphones Model #487;Electronics;Smartphones;GadgetPro;1146.95;223
+488;KitchenWiz Bedding Model #488;Home & Kitchen;Bedding;KitchenWiz;88.53;129
+489;ElectroBrand Laptops Model #489;Electronics;Laptops;ElectroBrand;599.71;401
+490;ElectroBrand Headphones Model #490;Electronics;Headphones;ElectroBrand;1754.83;472
+491;TechGiant Laptops Model #491;Electronics;Laptops;TechGiant;1194.13;205
+492;PureHealth Makeup Model #492;Beauty & Health;Makeup;PureHealth;108.89;342
+493;ClassicFits Jeans Model #493;Clothing;Jeans;ClassicFits;241.53;353
+494;HomeEssentials Bedding Model #494;Home & Kitchen;Bedding;HomeEssentials;90.64;13
+495;EcoThreads T-Shirts Model #495;Clothing;T-Shirts;EcoThreads;119.87;51
+496;HomeEssentials Cookware Model #496;Home & Kitchen;Cookware;HomeEssentials;324.10;117
+497;CozyLiving Decor Model #497;Home & Kitchen;Decor;CozyLiving;380.01;324
+498;GadgetPro Laptops Model #498;Electronics;Laptops;GadgetPro;674.17;380
+499;HomeEssentials Decor Model #499;Home & Kitchen;Decor;HomeEssentials;335.57;411
+500;UrbanWear T-Shirts Model #500;Clothing;T-Shirts;UrbanWear;95.32;138
+501;UrbanWear Jackets Model #501;Clothing;Jackets;UrbanWear;32.39;271
+502;VitaBoost Vitamins Model #502;Beauty & Health;Vitamins;VitaBoost;37.55;173
+503;ClassicFits Jackets Model #503;Clothing;Jackets;ClassicFits;98.50;314
+504;GlowUp Skincare Model #504;Beauty & Health;Skincare;GlowUp;71.74;255
+505;TechGiant Laptops Model #505;Electronics;Laptops;TechGiant;613.07;133
+506;HomeEssentials Bedding Model #506;Home & Kitchen;Bedding;HomeEssentials;71.12;402
+507;UrbanWear T-Shirts Model #507;Clothing;T-Shirts;UrbanWear;52.10;172
+508;CozyLiving Bedding Model #508;Home & Kitchen;Bedding;CozyLiving;442.74;430
+509;ClassicFits Jackets Model #509;Clothing;Jackets;ClassicFits;51.38;17
+510;HomeEssentials Bedding Model #510;Home & Kitchen;Bedding;HomeEssentials;226.96;53
+511;GlowUp Skincare Model #511;Beauty & Health;Skincare;GlowUp;160.79;74
+512;HomeEssentials Decor Model #512;Home & Kitchen;Decor;HomeEssentials;347.96;38
+513;ClassicFits T-Shirts Model #513;Clothing;T-Shirts;ClassicFits;249.31;266
+514;ClassicFits T-Shirts Model #514;Clothing;T-Shirts;ClassicFits;142.01;15
+515;GadgetPro Smartphones Model #515;Electronics;Smartphones;GadgetPro;1876.56;334
+516;GadgetPro Smartphones Model #516;Electronics;Smartphones;GadgetPro;240.74;194
+517;UrbanWear Jeans Model #517;Clothing;Jeans;UrbanWear;71.89;287
+518;ElectroBrand Laptops Model #518;Electronics;Laptops;ElectroBrand;265.41;252
+519;EcoThreads T-Shirts Model #519;Clothing;T-Shirts;EcoThreads;167.07;183
+520;EcoThreads Jackets Model #520;Clothing;Jackets;EcoThreads;55.97;167
+521;GlowUp Vitamins Model #521;Beauty & Health;Vitamins;GlowUp;123.62;31
+522;GlowUp Skincare Model #522;Beauty & Health;Skincare;GlowUp;134.97;410
+523;KitchenWiz Bedding Model #523;Home & Kitchen;Bedding;KitchenWiz;386.43;78
+524;VitaBoost Skincare Model #524;Beauty & Health;Skincare;VitaBoost;120.37;381
+525;TechGiant Smartphones Model #525;Electronics;Smartphones;TechGiant;405.49;412
+526;EcoThreads Jeans Model #526;Clothing;Jeans;EcoThreads;32.10;332
+527;KitchenWiz Cookware Model #527;Home & Kitchen;Cookware;KitchenWiz;410.79;310
+528;VitaBoost Skincare Model #528;Beauty & Health;Skincare;VitaBoost;158.50;234
+529;UrbanWear T-Shirts Model #529;Clothing;T-Shirts;UrbanWear;114.12;63
+530;VitaBoost Makeup Model #530;Beauty & Health;Makeup;VitaBoost;12.30;295
+531;PureHealth Makeup Model #531;Beauty & Health;Makeup;PureHealth;181.14;23
+532;PureHealth Skincare Model #532;Beauty & Health;Skincare;PureHealth;37.56;34
+533;CozyLiving Cookware Model #533;Home & Kitchen;Cookware;CozyLiving;281.54;259
+534;HomeEssentials Bedding Model #534;Home & Kitchen;Bedding;HomeEssentials;127.39;136
+535;TechGiant Headphones Model #535;Electronics;Headphones;TechGiant;1713.79;377
+536;KitchenWiz Decor Model #536;Home & Kitchen;Decor;KitchenWiz;193.95;226
+537;EcoThreads Jackets Model #537;Clothing;Jackets;EcoThreads;252.23;238
+538;GlowUp Vitamins Model #538;Beauty & Health;Vitamins;GlowUp;186.44;331
+539;PureHealth Skincare Model #539;Beauty & Health;Skincare;PureHealth;191.17;360
+540;TechGiant Laptops Model #540;Electronics;Laptops;TechGiant;604.18;480
+541;GadgetPro Smartphones Model #541;Electronics;Smartphones;GadgetPro;1111.26;411
+542;EcoThreads T-Shirts Model #542;Clothing;T-Shirts;EcoThreads;70.34;278
+543;PureHealth Vitamins Model #543;Beauty & Health;Vitamins;PureHealth;98.69;499
+544;KitchenWiz Decor Model #544;Home & Kitchen;Decor;KitchenWiz;227.57;214
+545;GadgetPro Laptops Model #545;Electronics;Laptops;GadgetPro;297.84;132
+546;TechGiant Smartphones Model #546;Electronics;Smartphones;TechGiant;1317.77;393
+547;VitaBoost Makeup Model #547;Beauty & Health;Makeup;VitaBoost;151.79;161
+548;ClassicFits Jeans Model #548;Clothing;Jeans;ClassicFits;85.35;29
+549;ClassicFits Jeans Model #549;Clothing;Jeans;ClassicFits;299.76;253
+550;GlowUp Makeup Model #550;Beauty & Health;Makeup;GlowUp;33.75;399
+551;TechGiant Laptops Model #551;Electronics;Laptops;TechGiant;1888.61;322
+552;GadgetPro Headphones Model #552;Electronics;Headphones;GadgetPro;1401.80;54
+553;UrbanWear Jackets Model #553;Clothing;Jackets;UrbanWear;296.63;189
+554;EcoThreads Jackets Model #554;Clothing;Jackets;EcoThreads;218.56;78
+555;TechGiant Laptops Model #555;Electronics;Laptops;TechGiant;965.27;125
+556;ClassicFits T-Shirts Model #556;Clothing;T-Shirts;ClassicFits;168.68;201
+557;PureHealth Makeup Model #557;Beauty & Health;Makeup;PureHealth;179.29;112
+558;PureHealth Skincare Model #558;Beauty & Health;Skincare;PureHealth;116.63;350
+559;CozyLiving Decor Model #559;Home & Kitchen;Decor;CozyLiving;73.92;403
+560;ClassicFits Jackets Model #560;Clothing;Jackets;ClassicFits;61.74;53
+561;KitchenWiz Cookware Model #561;Home & Kitchen;Cookware;KitchenWiz;261.06;47
+562;CozyLiving Bedding Model #562;Home & Kitchen;Bedding;CozyLiving;222.51;417
+563;UrbanWear Jackets Model #563;Clothing;Jackets;UrbanWear;134.13;473
+564;ElectroBrand Smartphones Model #564;Electronics;Smartphones;ElectroBrand;1952.48;76
+565;UrbanWear Jackets Model #565;Clothing;Jackets;UrbanWear;291.62;289
+566;ElectroBrand Laptops Model #566;Electronics;Laptops;ElectroBrand;1103.57;96
+567;GlowUp Skincare Model #567;Beauty & Health;Skincare;GlowUp;64.92;213
+568;TechGiant Smartphones Model #568;Electronics;Smartphones;TechGiant;1443.16;17
+569;KitchenWiz Bedding Model #569;Home & Kitchen;Bedding;KitchenWiz;480.54;231
+570;VitaBoost Vitamins Model #570;Beauty & Health;Vitamins;VitaBoost;127.94;196
+571;VitaBoost Vitamins Model #571;Beauty & Health;Vitamins;VitaBoost;104.38;41
+572;VitaBoost Makeup Model #572;Beauty & Health;Makeup;VitaBoost;143.39;135
+573;PureHealth Makeup Model #573;Beauty & Health;Makeup;PureHealth;77.47;303
+574;GlowUp Vitamins Model #574;Beauty & Health;Vitamins;GlowUp;54.75;383
+575;ElectroBrand Smartphones Model #575;Electronics;Smartphones;ElectroBrand;1681.09;168
+576;CozyLiving Decor Model #576;Home & Kitchen;Decor;CozyLiving;195.20;190
+577;TechGiant Smartphones Model #577;Electronics;Smartphones;TechGiant;1914.00;138
+578;TechGiant Laptops Model #578;Electronics;Laptops;TechGiant;319.87;484
+579;UrbanWear T-Shirts Model #579;Clothing;T-Shirts;UrbanWear;31.36;132
+580;GlowUp Makeup Model #580;Beauty & Health;Makeup;GlowUp;56.13;498
+581;VitaBoost Skincare Model #581;Beauty & Health;Skincare;VitaBoost;15.76;176
+582;GlowUp Makeup Model #582;Beauty & Health;Makeup;GlowUp;133.21;305
+583;EcoThreads T-Shirts Model #583;Clothing;T-Shirts;EcoThreads;130.38;237
+584;GlowUp Skincare Model #584;Beauty & Health;Skincare;GlowUp;48.77;426
+585;GlowUp Skincare Model #585;Beauty & Health;Skincare;GlowUp;104.38;208
+586;HomeEssentials Cookware Model #586;Home & Kitchen;Cookware;HomeEssentials;327.64;194
+587;PureHealth Vitamins Model #587;Beauty & Health;Vitamins;PureHealth;162.12;179
+588;GlowUp Makeup Model #588;Beauty & Health;Makeup;GlowUp;57.50;320
+589;TechGiant Headphones Model #589;Electronics;Headphones;TechGiant;1538.52;171
+590;KitchenWiz Decor Model #590;Home & Kitchen;Decor;KitchenWiz;442.23;323
+591;ClassicFits Jackets Model #591;Clothing;Jackets;ClassicFits;196.74;94
+592;EcoThreads T-Shirts Model #592;Clothing;T-Shirts;EcoThreads;230.06;40
+593;UrbanWear Jackets Model #593;Clothing;Jackets;UrbanWear;249.67;97
+594;GlowUp Skincare Model #594;Beauty & Health;Skincare;GlowUp;88.90;330
+595;UrbanWear Jeans Model #595;Clothing;Jeans;UrbanWear;274.99;154
+596;GadgetPro Smartphones Model #596;Electronics;Smartphones;GadgetPro;1557.30;203
+597;TechGiant Laptops Model #597;Electronics;Laptops;TechGiant;616.86;267
+598;ClassicFits T-Shirts Model #598;Clothing;T-Shirts;ClassicFits;28.01;110
+599;UrbanWear Jeans Model #599;Clothing;Jeans;UrbanWear;286.81;370
+600;CozyLiving Bedding Model #600;Home & Kitchen;Bedding;CozyLiving;348.90;61
+601;GadgetPro Laptops Model #601;Electronics;Laptops;GadgetPro;809.39;166
+602;ElectroBrand Smartphones Model #602;Electronics;Smartphones;ElectroBrand;231.54;193
+603;EcoThreads Jackets Model #603;Clothing;Jackets;EcoThreads;272.90;213
+604;CozyLiving Bedding Model #604;Home & Kitchen;Bedding;CozyLiving;370.54;183
+605;HomeEssentials Cookware Model #605;Home & Kitchen;Cookware;HomeEssentials;252.37;354
+606;GlowUp Vitamins Model #606;Beauty & Health;Vitamins;GlowUp;11.74;114
+607;UrbanWear Jackets Model #607;Clothing;Jackets;UrbanWear;188.02;376
+608;HomeEssentials Decor Model #608;Home & Kitchen;Decor;HomeEssentials;451.24;195
+609;PureHealth Vitamins Model #609;Beauty & Health;Vitamins;PureHealth;105.05;363
+610;PureHealth Skincare Model #610;Beauty & Health;Skincare;PureHealth;77.00;237
+611;TechGiant Headphones Model #611;Electronics;Headphones;TechGiant;1842.43;390
+612;UrbanWear T-Shirts Model #612;Clothing;T-Shirts;UrbanWear;65.24;188
+613;UrbanWear Jackets Model #613;Clothing;Jackets;UrbanWear;227.34;295
+614;ClassicFits Jackets Model #614;Clothing;Jackets;ClassicFits;88.36;112
+615;VitaBoost Vitamins Model #615;Beauty & Health;Vitamins;VitaBoost;124.30;15
+616;EcoThreads Jackets Model #616;Clothing;Jackets;EcoThreads;243.07;136
+617;ElectroBrand Smartphones Model #617;Electronics;Smartphones;ElectroBrand;988.73;240
+618;PureHealth Skincare Model #618;Beauty & Health;Skincare;PureHealth;161.06;19
+619;UrbanWear Jackets Model #619;Clothing;Jackets;UrbanWear;129.20;48
+620;CozyLiving Bedding Model #620;Home & Kitchen;Bedding;CozyLiving;382.99;31
+621;HomeEssentials Cookware Model #621;Home & Kitchen;Cookware;HomeEssentials;158.79;106
+622;HomeEssentials Cookware Model #622;Home & Kitchen;Cookware;HomeEssentials;247.99;256
+623;HomeEssentials Decor Model #623;Home & Kitchen;Decor;HomeEssentials;144.38;6
+624;GlowUp Makeup Model #624;Beauty & Health;Makeup;GlowUp;75.66;24
+625;VitaBoost Makeup Model #625;Beauty & Health;Makeup;VitaBoost;55.94;130
+626;ClassicFits T-Shirts Model #626;Clothing;T-Shirts;ClassicFits;71.07;453
+627;VitaBoost Vitamins Model #627;Beauty & Health;Vitamins;VitaBoost;161.56;315
+628;ClassicFits T-Shirts Model #628;Clothing;T-Shirts;ClassicFits;152.60;188
+629;TechGiant Laptops Model #629;Electronics;Laptops;TechGiant;1770.71;162
+630;GadgetPro Laptops Model #630;Electronics;Laptops;GadgetPro;498.03;238
+631;CozyLiving Bedding Model #631;Home & Kitchen;Bedding;CozyLiving;352.63;163
+632;GadgetPro Laptops Model #632;Electronics;Laptops;GadgetPro;1440.95;234
+633;ClassicFits Jeans Model #633;Clothing;Jeans;ClassicFits;201.71;442
+634;GadgetPro Smartphones Model #634;Electronics;Smartphones;GadgetPro;1592.28;46
+635;GlowUp Vitamins Model #635;Beauty & Health;Vitamins;GlowUp;40.15;394
+636;TechGiant Headphones Model #636;Electronics;Headphones;TechGiant;1115.53;73
+637;TechGiant Laptops Model #637;Electronics;Laptops;TechGiant;1394.95;193
+638;GadgetPro Smartphones Model #638;Electronics;Smartphones;GadgetPro;1346.26;446
+639;EcoThreads Jeans Model #639;Clothing;Jeans;EcoThreads;214.83;217
+640;CozyLiving Cookware Model #640;Home & Kitchen;Cookware;CozyLiving;293.29;331
+641;CozyLiving Decor Model #641;Home & Kitchen;Decor;CozyLiving;390.13;33
+642;GadgetPro Headphones Model #642;Electronics;Headphones;GadgetPro;1401.25;485
+643;PureHealth Makeup Model #643;Beauty & Health;Makeup;PureHealth;182.53;337
+644;GadgetPro Headphones Model #644;Electronics;Headphones;GadgetPro;1549.00;219
+645;ElectroBrand Headphones Model #645;Electronics;Headphones;ElectroBrand;198.16;415
+646;CozyLiving Bedding Model #646;Home & Kitchen;Bedding;CozyLiving;222.64;476
+647;PureHealth Skincare Model #647;Beauty & Health;Skincare;PureHealth;38.14;430
+648;VitaBoost Skincare Model #648;Beauty & Health;Skincare;VitaBoost;65.45;434
+649;HomeEssentials Cookware Model #649;Home & Kitchen;Cookware;HomeEssentials;311.45;389
+650;GadgetPro Headphones Model #650;Electronics;Headphones;GadgetPro;1127.67;302
+651;CozyLiving Bedding Model #651;Home & Kitchen;Bedding;CozyLiving;298.67;107
+652;HomeEssentials Cookware Model #652;Home & Kitchen;Cookware;HomeEssentials;67.96;423
+653;ClassicFits T-Shirts Model #653;Clothing;T-Shirts;ClassicFits;191.31;371
+654;EcoThreads T-Shirts Model #654;Clothing;T-Shirts;EcoThreads;150.87;164
+655;ClassicFits Jackets Model #655;Clothing;Jackets;ClassicFits;69.80;246
+656;PureHealth Makeup Model #656;Beauty & Health;Makeup;PureHealth;40.97;372
+657;HomeEssentials Bedding Model #657;Home & Kitchen;Bedding;HomeEssentials;165.31;239
+658;EcoThreads T-Shirts Model #658;Clothing;T-Shirts;EcoThreads;145.41;365
+659;TechGiant Headphones Model #659;Electronics;Headphones;TechGiant;331.23;343
+660;GadgetPro Smartphones Model #660;Electronics;Smartphones;GadgetPro;1831.94;293
+661;VitaBoost Skincare Model #661;Beauty & Health;Skincare;VitaBoost;44.52;440
+662;VitaBoost Skincare Model #662;Beauty & Health;Skincare;VitaBoost;159.09;245
+663;ClassicFits T-Shirts Model #663;Clothing;T-Shirts;ClassicFits;241.75;12
+664;UrbanWear Jackets Model #664;Clothing;Jackets;UrbanWear;213.43;83
+665;KitchenWiz Decor Model #665;Home & Kitchen;Decor;KitchenWiz;112.87;133
+666;GlowUp Makeup Model #666;Beauty & Health;Makeup;GlowUp;41.66;275
+667;UrbanWear Jackets Model #667;Clothing;Jackets;UrbanWear;22.38;205
+668;ClassicFits Jeans Model #668;Clothing;Jeans;ClassicFits;275.13;339
+669;KitchenWiz Cookware Model #669;Home & Kitchen;Cookware;KitchenWiz;140.67;499
+670;HomeEssentials Cookware Model #670;Home & Kitchen;Cookware;HomeEssentials;35.25;365
+671;VitaBoost Skincare Model #671;Beauty & Health;Skincare;VitaBoost;22.73;494
+672;CozyLiving Decor Model #672;Home & Kitchen;Decor;CozyLiving;306.50;274
+673;HomeEssentials Bedding Model #673;Home & Kitchen;Bedding;HomeEssentials;51.15;270
+674;GlowUp Makeup Model #674;Beauty & Health;Makeup;GlowUp;179.23;188
+675;ClassicFits Jeans Model #675;Clothing;Jeans;ClassicFits;92.22;213
+676;KitchenWiz Decor Model #676;Home & Kitchen;Decor;KitchenWiz;178.23;329
+677;VitaBoost Vitamins Model #677;Beauty & Health;Vitamins;VitaBoost;183.60;140
+678;TechGiant Smartphones Model #678;Electronics;Smartphones;TechGiant;639.85;198
+679;ClassicFits Jeans Model #679;Clothing;Jeans;ClassicFits;46.07;54
+680;GlowUp Makeup Model #680;Beauty & Health;Makeup;GlowUp;141.59;355
+681;CozyLiving Bedding Model #681;Home & Kitchen;Bedding;CozyLiving;104.30;458
+682;UrbanWear T-Shirts Model #682;Clothing;T-Shirts;UrbanWear;67.57;350
+683;HomeEssentials Bedding Model #683;Home & Kitchen;Bedding;HomeEssentials;425.65;215
+684;CozyLiving Decor Model #684;Home & Kitchen;Decor;CozyLiving;338.09;116
+685;EcoThreads Jackets Model #685;Clothing;Jackets;EcoThreads;188.95;443
+686;EcoThreads Jeans Model #686;Clothing;Jeans;EcoThreads;92.53;355
+687;PureHealth Vitamins Model #687;Beauty & Health;Vitamins;PureHealth;40.21;255
+688;HomeEssentials Cookware Model #688;Home & Kitchen;Cookware;HomeEssentials;169.16;314
+689;GlowUp Vitamins Model #689;Beauty & Health;Vitamins;GlowUp;43.16;15
+690;TechGiant Smartphones Model #690;Electronics;Smartphones;TechGiant;1792.21;45
+691;UrbanWear Jackets Model #691;Clothing;Jackets;UrbanWear;67.81;109
+692;ClassicFits T-Shirts Model #692;Clothing;T-Shirts;ClassicFits;60.18;315
+693;UrbanWear Jeans Model #693;Clothing;Jeans;UrbanWear;41.48;384
+694;CozyLiving Cookware Model #694;Home & Kitchen;Cookware;CozyLiving;480.68;302
+695;HomeEssentials Bedding Model #695;Home & Kitchen;Bedding;HomeEssentials;496.18;321
+696;ElectroBrand Laptops Model #696;Electronics;Laptops;ElectroBrand;1404.00;304
+697;ClassicFits T-Shirts Model #697;Clothing;T-Shirts;ClassicFits;105.64;20
+698;KitchenWiz Bedding Model #698;Home & Kitchen;Bedding;KitchenWiz;307.80;64
+699;KitchenWiz Decor Model #699;Home & Kitchen;Decor;KitchenWiz;146.41;438
+700;UrbanWear T-Shirts Model #700;Clothing;T-Shirts;UrbanWear;156.04;378
+701;ElectroBrand Headphones Model #701;Electronics;Headphones;ElectroBrand;1967.63;148
+702;GlowUp Vitamins Model #702;Beauty & Health;Vitamins;GlowUp;97.63;406
+703;CozyLiving Decor Model #703;Home & Kitchen;Decor;CozyLiving;45.01;354
+704;VitaBoost Makeup Model #704;Beauty & Health;Makeup;VitaBoost;53.31;195
+705;PureHealth Makeup Model #705;Beauty & Health;Makeup;PureHealth;161.09;99
+706;CozyLiving Decor Model #706;Home & Kitchen;Decor;CozyLiving;309.11;23
+707;ElectroBrand Smartphones Model #707;Electronics;Smartphones;ElectroBrand;476.60;56
+708;VitaBoost Makeup Model #708;Beauty & Health;Makeup;VitaBoost;62.94;93
+709;EcoThreads Jackets Model #709;Clothing;Jackets;EcoThreads;45.95;468
+710;VitaBoost Skincare Model #710;Beauty & Health;Skincare;VitaBoost;122.55;164
+711;GadgetPro Smartphones Model #711;Electronics;Smartphones;GadgetPro;1534.77;225
+712;GadgetPro Headphones Model #712;Electronics;Headphones;GadgetPro;710.13;373
+713;EcoThreads Jackets Model #713;Clothing;Jackets;EcoThreads;173.88;410
+714;KitchenWiz Cookware Model #714;Home & Kitchen;Cookware;KitchenWiz;306.21;128
+715;TechGiant Laptops Model #715;Electronics;Laptops;TechGiant;1022.64;177
+716;GlowUp Makeup Model #716;Beauty & Health;Makeup;GlowUp;171.14;12
+717;UrbanWear T-Shirts Model #717;Clothing;T-Shirts;UrbanWear;157.67;321
+718;KitchenWiz Decor Model #718;Home & Kitchen;Decor;KitchenWiz;323.70;144
+719;KitchenWiz Bedding Model #719;Home & Kitchen;Bedding;KitchenWiz;111.84;454
+720;TechGiant Laptops Model #720;Electronics;Laptops;TechGiant;245.74;436
+721;TechGiant Headphones Model #721;Electronics;Headphones;TechGiant;1477.16;148
+722;CozyLiving Decor Model #722;Home & Kitchen;Decor;CozyLiving;107.65;289
+723;PureHealth Skincare Model #723;Beauty & Health;Skincare;PureHealth;153.73;190
+724;GlowUp Makeup Model #724;Beauty & Health;Makeup;GlowUp;36.29;496
+725;GlowUp Vitamins Model #725;Beauty & Health;Vitamins;GlowUp;111.41;181
+726;UrbanWear T-Shirts Model #726;Clothing;T-Shirts;UrbanWear;186.88;67
+727;UrbanWear Jeans Model #727;Clothing;Jeans;UrbanWear;107.54;194
+728;GlowUp Vitamins Model #728;Beauty & Health;Vitamins;GlowUp;33.77;328
+729;TechGiant Headphones Model #729;Electronics;Headphones;TechGiant;1039.53;103
+730;VitaBoost Skincare Model #730;Beauty & Health;Skincare;VitaBoost;65.82;315
+731;HomeEssentials Cookware Model #731;Home & Kitchen;Cookware;HomeEssentials;386.68;452
+732;KitchenWiz Decor Model #732;Home & Kitchen;Decor;KitchenWiz;408.90;135
+733;ElectroBrand Headphones Model #733;Electronics;Headphones;ElectroBrand;1922.92;43
+734;KitchenWiz Decor Model #734;Home & Kitchen;Decor;KitchenWiz;381.96;223
+735;ElectroBrand Laptops Model #735;Electronics;Laptops;ElectroBrand;506.59;264
+736;UrbanWear Jeans Model #736;Clothing;Jeans;UrbanWear;161.32;87
+737;GadgetPro Smartphones Model #737;Electronics;Smartphones;GadgetPro;997.76;178
+738;HomeEssentials Cookware Model #738;Home & Kitchen;Cookware;HomeEssentials;301.59;162
+739;UrbanWear Jeans Model #739;Clothing;Jeans;UrbanWear;197.23;355
+740;UrbanWear Jackets Model #740;Clothing;Jackets;UrbanWear;131.40;103
+741;PureHealth Makeup Model #741;Beauty & Health;Makeup;PureHealth;47.57;382
+742;EcoThreads Jeans Model #742;Clothing;Jeans;EcoThreads;233.73;230
+743;GadgetPro Smartphones Model #743;Electronics;Smartphones;GadgetPro;235.56;279
+744;UrbanWear T-Shirts Model #744;Clothing;T-Shirts;UrbanWear;102.55;142
+745;KitchenWiz Decor Model #745;Home & Kitchen;Decor;KitchenWiz;303.51;443
+746;ElectroBrand Headphones Model #746;Electronics;Headphones;ElectroBrand;316.92;204
+747;GadgetPro Smartphones Model #747;Electronics;Smartphones;GadgetPro;1691.77;498
+748;EcoThreads Jeans Model #748;Clothing;Jeans;EcoThreads;244.92;62
+749;HomeEssentials Bedding Model #749;Home & Kitchen;Bedding;HomeEssentials;222.98;153
+750;ElectroBrand Smartphones Model #750;Electronics;Smartphones;ElectroBrand;414.41;213
+751;EcoThreads Jackets Model #751;Clothing;Jackets;EcoThreads;259.25;340
+752;GlowUp Vitamins Model #752;Beauty & Health;Vitamins;GlowUp;143.00;467
+753;TechGiant Laptops Model #753;Electronics;Laptops;TechGiant;1901.74;329
+754;PureHealth Skincare Model #754;Beauty & Health;Skincare;PureHealth;169.99;471
+755;HomeEssentials Bedding Model #755;Home & Kitchen;Bedding;HomeEssentials;155.06;410
+756;GadgetPro Laptops Model #756;Electronics;Laptops;GadgetPro;497.69;188
+757;GlowUp Skincare Model #757;Beauty & Health;Skincare;GlowUp;188.36;203
+758;GadgetPro Headphones Model #758;Electronics;Headphones;GadgetPro;1380.04;258
+759;ClassicFits Jeans Model #759;Clothing;Jeans;ClassicFits;165.21;353
+760;VitaBoost Vitamins Model #760;Beauty & Health;Vitamins;VitaBoost;92.91;332
+761;TechGiant Smartphones Model #761;Electronics;Smartphones;TechGiant;1387.64;231
+762;PureHealth Makeup Model #762;Beauty & Health;Makeup;PureHealth;90.85;55
+763;UrbanWear Jeans Model #763;Clothing;Jeans;UrbanWear;270.08;149
+764;GlowUp Makeup Model #764;Beauty & Health;Makeup;GlowUp;78.38;248
+765;KitchenWiz Decor Model #765;Home & Kitchen;Decor;KitchenWiz;144.61;70
+766;UrbanWear T-Shirts Model #766;Clothing;T-Shirts;UrbanWear;50.47;96
+767;KitchenWiz Cookware Model #767;Home & Kitchen;Cookware;KitchenWiz;350.34;24
+768;UrbanWear Jeans Model #768;Clothing;Jeans;UrbanWear;162.12;409
+769;ElectroBrand Smartphones Model #769;Electronics;Smartphones;ElectroBrand;1358.91;195
+770;CozyLiving Cookware Model #770;Home & Kitchen;Cookware;CozyLiving;399.59;15
+771;ElectroBrand Headphones Model #771;Electronics;Headphones;ElectroBrand;1991.30;414
+772;PureHealth Vitamins Model #772;Beauty & Health;Vitamins;PureHealth;25.75;97
+773;EcoThreads Jackets Model #773;Clothing;Jackets;EcoThreads;105.63;76
+774;PureHealth Skincare Model #774;Beauty & Health;Skincare;PureHealth;159.82;330
+775;TechGiant Smartphones Model #775;Electronics;Smartphones;TechGiant;1466.99;180
+776;ElectroBrand Smartphones Model #776;Electronics;Smartphones;ElectroBrand;1564.56;325
+777;ElectroBrand Laptops Model #777;Electronics;Laptops;ElectroBrand;557.73;457
+778;PureHealth Skincare Model #778;Beauty & Health;Skincare;PureHealth;172.01;65
+779;UrbanWear T-Shirts Model #779;Clothing;T-Shirts;UrbanWear;214.78;323
+780;GadgetPro Smartphones Model #780;Electronics;Smartphones;GadgetPro;987.13;496
+781;HomeEssentials Decor Model #781;Home & Kitchen;Decor;HomeEssentials;177.99;177
+782;GadgetPro Laptops Model #782;Electronics;Laptops;GadgetPro;900.83;416
+783;KitchenWiz Decor Model #783;Home & Kitchen;Decor;KitchenWiz;403.23;16
+784;TechGiant Headphones Model #784;Electronics;Headphones;TechGiant;1581.33;216
+785;EcoThreads T-Shirts Model #785;Clothing;T-Shirts;EcoThreads;37.99;286
+786;UrbanWear Jeans Model #786;Clothing;Jeans;UrbanWear;70.67;167
+787;CozyLiving Decor Model #787;Home & Kitchen;Decor;CozyLiving;352.84;448
+788;ElectroBrand Laptops Model #788;Electronics;Laptops;ElectroBrand;1318.74;499
+789;VitaBoost Skincare Model #789;Beauty & Health;Skincare;VitaBoost;156.64;303
+790;TechGiant Smartphones Model #790;Electronics;Smartphones;TechGiant;1514.13;382
+791;TechGiant Smartphones Model #791;Electronics;Smartphones;TechGiant;769.87;50
+792;GadgetPro Headphones Model #792;Electronics;Headphones;GadgetPro;179.67;166
+793;EcoThreads Jeans Model #793;Clothing;Jeans;EcoThreads;135.49;473
+794;VitaBoost Skincare Model #794;Beauty & Health;Skincare;VitaBoost;199.26;63
+795;ClassicFits Jeans Model #795;Clothing;Jeans;ClassicFits;242.27;381
+796;UrbanWear Jackets Model #796;Clothing;Jackets;UrbanWear;100.64;70
+797;TechGiant Laptops Model #797;Electronics;Laptops;TechGiant;1580.65;466
+798;CozyLiving Cookware Model #798;Home & Kitchen;Cookware;CozyLiving;80.96;381
+799;HomeEssentials Cookware Model #799;Home & Kitchen;Cookware;HomeEssentials;175.56;72
+800;EcoThreads T-Shirts Model #800;Clothing;T-Shirts;EcoThreads;49.74;7
+801;ClassicFits T-Shirts Model #801;Clothing;T-Shirts;ClassicFits;198.86;306
+802;KitchenWiz Cookware Model #802;Home & Kitchen;Cookware;KitchenWiz;272.44;324
+803;ClassicFits T-Shirts Model #803;Clothing;T-Shirts;ClassicFits;100.38;421
+804;HomeEssentials Decor Model #804;Home & Kitchen;Decor;HomeEssentials;454.43;467
+805;GadgetPro Laptops Model #805;Electronics;Laptops;GadgetPro;1440.06;223
+806;GlowUp Skincare Model #806;Beauty & Health;Skincare;GlowUp;12.29;209
+807;VitaBoost Vitamins Model #807;Beauty & Health;Vitamins;VitaBoost;157.62;378
+808;PureHealth Skincare Model #808;Beauty & Health;Skincare;PureHealth;178.45;149
+809;GlowUp Vitamins Model #809;Beauty & Health;Vitamins;GlowUp;44.51;207
+810;ClassicFits T-Shirts Model #810;Clothing;T-Shirts;ClassicFits;205.99;479
+811;UrbanWear T-Shirts Model #811;Clothing;T-Shirts;UrbanWear;219.18;358
+812;UrbanWear Jeans Model #812;Clothing;Jeans;UrbanWear;219.36;428
+813;EcoThreads Jackets Model #813;Clothing;Jackets;EcoThreads;112.69;254
+814;KitchenWiz Bedding Model #814;Home & Kitchen;Bedding;KitchenWiz;406.28;406
+815;CozyLiving Bedding Model #815;Home & Kitchen;Bedding;CozyLiving;389.67;135
+816;HomeEssentials Cookware Model #816;Home & Kitchen;Cookware;HomeEssentials;97.18;50
+817;VitaBoost Makeup Model #817;Beauty & Health;Makeup;VitaBoost;14.27;220
+818;EcoThreads Jeans Model #818;Clothing;Jeans;EcoThreads;31.25;126
+819;HomeEssentials Cookware Model #819;Home & Kitchen;Cookware;HomeEssentials;99.58;461
+820;ClassicFits T-Shirts Model #820;Clothing;T-Shirts;ClassicFits;44.95;25
+821;TechGiant Laptops Model #821;Electronics;Laptops;TechGiant;1810.28;449
+822;PureHealth Skincare Model #822;Beauty & Health;Skincare;PureHealth;180.37;182
+823;UrbanWear T-Shirts Model #823;Clothing;T-Shirts;UrbanWear;62.05;413
+824;GadgetPro Laptops Model #824;Electronics;Laptops;GadgetPro;1980.59;335
+825;GadgetPro Smartphones Model #825;Electronics;Smartphones;GadgetPro;1916.44;264
+826;ClassicFits Jeans Model #826;Clothing;Jeans;ClassicFits;268.59;265
+827;GadgetPro Smartphones Model #827;Electronics;Smartphones;GadgetPro;152.49;47
+828;KitchenWiz Cookware Model #828;Home & Kitchen;Cookware;KitchenWiz;86.78;155
+829;PureHealth Vitamins Model #829;Beauty & Health;Vitamins;PureHealth;149.36;416
+830;PureHealth Makeup Model #830;Beauty & Health;Makeup;PureHealth;29.70;393
+831;EcoThreads Jackets Model #831;Clothing;Jackets;EcoThreads;87.52;495
+832;PureHealth Skincare Model #832;Beauty & Health;Skincare;PureHealth;195.16;373
+833;GlowUp Vitamins Model #833;Beauty & Health;Vitamins;GlowUp;119.44;134
+834;UrbanWear T-Shirts Model #834;Clothing;T-Shirts;UrbanWear;42.43;226
+835;HomeEssentials Decor Model #835;Home & Kitchen;Decor;HomeEssentials;348.02;75
+836;TechGiant Headphones Model #836;Electronics;Headphones;TechGiant;812.64;265
+837;UrbanWear Jeans Model #837;Clothing;Jeans;UrbanWear;90.69;47
+838;ClassicFits T-Shirts Model #838;Clothing;T-Shirts;ClassicFits;51.83;486
+839;EcoThreads Jackets Model #839;Clothing;Jackets;EcoThreads;122.75;384
+840;HomeEssentials Bedding Model #840;Home & Kitchen;Bedding;HomeEssentials;240.35;276
+841;GlowUp Makeup Model #841;Beauty & Health;Makeup;GlowUp;103.73;3
+842;GlowUp Skincare Model #842;Beauty & Health;Skincare;GlowUp;177.94;67
+843;VitaBoost Vitamins Model #843;Beauty & Health;Vitamins;VitaBoost;198.49;141
+844;ClassicFits Jackets Model #844;Clothing;Jackets;ClassicFits;41.63;38
+845;TechGiant Laptops Model #845;Electronics;Laptops;TechGiant;575.91;308
+846;UrbanWear Jeans Model #846;Clothing;Jeans;UrbanWear;53.23;27
+847;ClassicFits Jeans Model #847;Clothing;Jeans;ClassicFits;93.82;235
+848;EcoThreads T-Shirts Model #848;Clothing;T-Shirts;EcoThreads;185.21;23
+849;TechGiant Laptops Model #849;Electronics;Laptops;TechGiant;532.78;343
+850;VitaBoost Vitamins Model #850;Beauty & Health;Vitamins;VitaBoost;141.34;160
+851;ElectroBrand Smartphones Model #851;Electronics;Smartphones;ElectroBrand;760.08;224
+852;PureHealth Skincare Model #852;Beauty & Health;Skincare;PureHealth;55.19;412
+853;GlowUp Skincare Model #853;Beauty & Health;Skincare;GlowUp;81.05;491
+854;EcoThreads Jackets Model #854;Clothing;Jackets;EcoThreads;174.93;203
+855;EcoThreads Jeans Model #855;Clothing;Jeans;EcoThreads;255.17;354
+856;TechGiant Laptops Model #856;Electronics;Laptops;TechGiant;1007.80;395
+857;UrbanWear Jackets Model #857;Clothing;Jackets;UrbanWear;108.67;289
+858;UrbanWear Jackets Model #858;Clothing;Jackets;UrbanWear;241.81;356
+859;GlowUp Skincare Model #859;Beauty & Health;Skincare;GlowUp;112.59;259
+860;VitaBoost Makeup Model #860;Beauty & Health;Makeup;VitaBoost;199.19;150
+861;GadgetPro Headphones Model #861;Electronics;Headphones;GadgetPro;386.25;172
+862;ElectroBrand Smartphones Model #862;Electronics;Smartphones;ElectroBrand;1508.94;41
+863;TechGiant Laptops Model #863;Electronics;Laptops;TechGiant;215.52;95
+864;GadgetPro Smartphones Model #864;Electronics;Smartphones;GadgetPro;305.02;337
+865;ClassicFits Jeans Model #865;Clothing;Jeans;ClassicFits;101.25;420
+866;ElectroBrand Laptops Model #866;Electronics;Laptops;ElectroBrand;471.56;99
+867;GlowUp Makeup Model #867;Beauty & Health;Makeup;GlowUp;102.99;70
+868;VitaBoost Skincare Model #868;Beauty & Health;Skincare;VitaBoost;97.06;445
+869;GadgetPro Smartphones Model #869;Electronics;Smartphones;GadgetPro;772.79;63
+870;CozyLiving Bedding Model #870;Home & Kitchen;Bedding;CozyLiving;176.37;2
+871;ClassicFits Jeans Model #871;Clothing;Jeans;ClassicFits;222.81;135
+872;KitchenWiz Decor Model #872;Home & Kitchen;Decor;KitchenWiz;241.25;102
+873;TechGiant Headphones Model #873;Electronics;Headphones;TechGiant;1835.73;92
+874;VitaBoost Skincare Model #874;Beauty & Health;Skincare;VitaBoost;121.54;77
+875;GlowUp Vitamins Model #875;Beauty & Health;Vitamins;GlowUp;173.08;149
+876;HomeEssentials Decor Model #876;Home & Kitchen;Decor;HomeEssentials;60.55;366
+877;TechGiant Headphones Model #877;Electronics;Headphones;TechGiant;602.82;238
+878;CozyLiving Bedding Model #878;Home & Kitchen;Bedding;CozyLiving;346.24;460
+879;GlowUp Skincare Model #879;Beauty & Health;Skincare;GlowUp;185.57;59
+880;PureHealth Skincare Model #880;Beauty & Health;Skincare;PureHealth;78.53;9
+881;EcoThreads T-Shirts Model #881;Clothing;T-Shirts;EcoThreads;268.12;196
+882;VitaBoost Skincare Model #882;Beauty & Health;Skincare;VitaBoost;28.96;438
+883;PureHealth Vitamins Model #883;Beauty & Health;Vitamins;PureHealth;145.60;166
+884;GadgetPro Smartphones Model #884;Electronics;Smartphones;GadgetPro;598.19;272
+885;ClassicFits Jeans Model #885;Clothing;Jeans;ClassicFits;240.15;218
+886;TechGiant Laptops Model #886;Electronics;Laptops;TechGiant;614.45;388
+887;VitaBoost Makeup Model #887;Beauty & Health;Makeup;VitaBoost;41.34;124
+888;KitchenWiz Bedding Model #888;Home & Kitchen;Bedding;KitchenWiz;302.42;200
+889;VitaBoost Vitamins Model #889;Beauty & Health;Vitamins;VitaBoost;83.63;107
+890;GadgetPro Headphones Model #890;Electronics;Headphones;GadgetPro;541.09;263
+891;UrbanWear T-Shirts Model #891;Clothing;T-Shirts;UrbanWear;227.95;136
+892;ClassicFits T-Shirts Model #892;Clothing;T-Shirts;ClassicFits;122.99;365
+893;VitaBoost Vitamins Model #893;Beauty & Health;Vitamins;VitaBoost;65.12;122
+894;KitchenWiz Decor Model #894;Home & Kitchen;Decor;KitchenWiz;274.47;22
+895;HomeEssentials Cookware Model #895;Home & Kitchen;Cookware;HomeEssentials;253.77;301
+896;KitchenWiz Cookware Model #896;Home & Kitchen;Cookware;KitchenWiz;331.55;133
+897;HomeEssentials Decor Model #897;Home & Kitchen;Decor;HomeEssentials;394.56;389
+898;HomeEssentials Cookware Model #898;Home & Kitchen;Cookware;HomeEssentials;47.72;464
+899;ElectroBrand Headphones Model #899;Electronics;Headphones;ElectroBrand;1658.52;63
+900;HomeEssentials Cookware Model #900;Home & Kitchen;Cookware;HomeEssentials;231.39;73
+901;GlowUp Makeup Model #901;Beauty & Health;Makeup;GlowUp;152.16;217
+902;GlowUp Skincare Model #902;Beauty & Health;Skincare;GlowUp;25.56;401
+903;GlowUp Vitamins Model #903;Beauty & Health;Vitamins;GlowUp;76.29;192
+904;ElectroBrand Smartphones Model #904;Electronics;Smartphones;ElectroBrand;285.56;389
+905;ElectroBrand Headphones Model #905;Electronics;Headphones;ElectroBrand;348.71;327
+906;GlowUp Skincare Model #906;Beauty & Health;Skincare;GlowUp;107.90;448
+907;ElectroBrand Smartphones Model #907;Electronics;Smartphones;ElectroBrand;925.68;249
+908;EcoThreads T-Shirts Model #908;Clothing;T-Shirts;EcoThreads;86.90;24
+909;ClassicFits Jeans Model #909;Clothing;Jeans;ClassicFits;207.82;253
+910;UrbanWear Jeans Model #910;Clothing;Jeans;UrbanWear;62.88;77
+911;VitaBoost Makeup Model #911;Beauty & Health;Makeup;VitaBoost;22.52;205
+912;PureHealth Makeup Model #912;Beauty & Health;Makeup;PureHealth;54.96;352
+913;EcoThreads T-Shirts Model #913;Clothing;T-Shirts;EcoThreads;33.52;171
+914;GlowUp Makeup Model #914;Beauty & Health;Makeup;GlowUp;161.66;345
+915;GadgetPro Laptops Model #915;Electronics;Laptops;GadgetPro;1474.58;221
+916;TechGiant Headphones Model #916;Electronics;Headphones;TechGiant;1052.45;153
+917;UrbanWear T-Shirts Model #917;Clothing;T-Shirts;UrbanWear;153.78;245
+918;ClassicFits T-Shirts Model #918;Clothing;T-Shirts;ClassicFits;292.93;53
+919;KitchenWiz Bedding Model #919;Home & Kitchen;Bedding;KitchenWiz;160.11;440
+920;CozyLiving Decor Model #920;Home & Kitchen;Decor;CozyLiving;322.09;236
+921;GadgetPro Smartphones Model #921;Electronics;Smartphones;GadgetPro;1116.77;87
+922;CozyLiving Decor Model #922;Home & Kitchen;Decor;CozyLiving;177.81;241
+923;ElectroBrand Headphones Model #923;Electronics;Headphones;ElectroBrand;496.96;444
+924;KitchenWiz Decor Model #924;Home & Kitchen;Decor;KitchenWiz;281.85;203
+925;VitaBoost Skincare Model #925;Beauty & Health;Skincare;VitaBoost;77.10;114
+926;GadgetPro Smartphones Model #926;Electronics;Smartphones;GadgetPro;1698.69;150
+927;ClassicFits Jeans Model #927;Clothing;Jeans;ClassicFits;44.02;242
+928;TechGiant Laptops Model #928;Electronics;Laptops;TechGiant;1817.22;88
+929;EcoThreads Jackets Model #929;Clothing;Jackets;EcoThreads;126.95;469
+930;KitchenWiz Decor Model #930;Home & Kitchen;Decor;KitchenWiz;175.16;319
+931;EcoThreads Jackets Model #931;Clothing;Jackets;EcoThreads;135.43;288
+932;VitaBoost Vitamins Model #932;Beauty & Health;Vitamins;VitaBoost;72.53;27
+933;TechGiant Laptops Model #933;Electronics;Laptops;TechGiant;1302.24;203
+934;VitaBoost Skincare Model #934;Beauty & Health;Skincare;VitaBoost;181.48;130
+935;EcoThreads Jeans Model #935;Clothing;Jeans;EcoThreads;120.96;96
+936;UrbanWear T-Shirts Model #936;Clothing;T-Shirts;UrbanWear;29.28;234
+937;HomeEssentials Bedding Model #937;Home & Kitchen;Bedding;HomeEssentials;260.26;115
+938;TechGiant Laptops Model #938;Electronics;Laptops;TechGiant;218.43;167
+939;VitaBoost Makeup Model #939;Beauty & Health;Makeup;VitaBoost;108.13;87
+940;PureHealth Vitamins Model #940;Beauty & Health;Vitamins;PureHealth;50.37;432
+941;PureHealth Makeup Model #941;Beauty & Health;Makeup;PureHealth;30.08;89
+942;GlowUp Vitamins Model #942;Beauty & Health;Vitamins;GlowUp;66.79;477
+943;GadgetPro Headphones Model #943;Electronics;Headphones;GadgetPro;357.66;142
+944;KitchenWiz Bedding Model #944;Home & Kitchen;Bedding;KitchenWiz;18.45;389
+945;GadgetPro Headphones Model #945;Electronics;Headphones;GadgetPro;1829.12;122
+946;EcoThreads Jackets Model #946;Clothing;Jackets;EcoThreads;134.41;45
+947;KitchenWiz Decor Model #947;Home & Kitchen;Decor;KitchenWiz;31.00;89
+948;EcoThreads T-Shirts Model #948;Clothing;T-Shirts;EcoThreads;171.10;196
+949;CozyLiving Decor Model #949;Home & Kitchen;Decor;CozyLiving;168.46;23
+950;EcoThreads T-Shirts Model #950;Clothing;T-Shirts;EcoThreads;121.00;225
+951;ElectroBrand Smartphones Model #951;Electronics;Smartphones;ElectroBrand;698.88;75
+952;ElectroBrand Smartphones Model #952;Electronics;Smartphones;ElectroBrand;1024.89;374
+953;ElectroBrand Headphones Model #953;Electronics;Headphones;ElectroBrand;1891.08;223
+954;ElectroBrand Headphones Model #954;Electronics;Headphones;ElectroBrand;1184.62;75
+955;ElectroBrand Smartphones Model #955;Electronics;Smartphones;ElectroBrand;790.04;465
+956;TechGiant Laptops Model #956;Electronics;Laptops;TechGiant;1537.85;495
+957;KitchenWiz Decor Model #957;Home & Kitchen;Decor;KitchenWiz;220.80;451
+958;GlowUp Makeup Model #958;Beauty & Health;Makeup;GlowUp;138.67;298
+959;VitaBoost Makeup Model #959;Beauty & Health;Makeup;VitaBoost;194.82;52
+960;EcoThreads Jeans Model #960;Clothing;Jeans;EcoThreads;27.49;164
+961;UrbanWear T-Shirts Model #961;Clothing;T-Shirts;UrbanWear;285.81;489
+962;ClassicFits Jeans Model #962;Clothing;Jeans;ClassicFits;56.32;391
+963;EcoThreads T-Shirts Model #963;Clothing;T-Shirts;EcoThreads;97.17;39
+964;VitaBoost Vitamins Model #964;Beauty & Health;Vitamins;VitaBoost;167.88;115
+965;HomeEssentials Decor Model #965;Home & Kitchen;Decor;HomeEssentials;312.69;263
+966;GlowUp Vitamins Model #966;Beauty & Health;Vitamins;GlowUp;104.29;186
+967;EcoThreads T-Shirts Model #967;Clothing;T-Shirts;EcoThreads;142.74;208
+968;UrbanWear Jeans Model #968;Clothing;Jeans;UrbanWear;95.15;377
+969;HomeEssentials Decor Model #969;Home & Kitchen;Decor;HomeEssentials;252.86;239
+970;TechGiant Laptops Model #970;Electronics;Laptops;TechGiant;163.77;187
+971;UrbanWear T-Shirts Model #971;Clothing;T-Shirts;UrbanWear;43.41;200
+972;GadgetPro Laptops Model #972;Electronics;Laptops;GadgetPro;1834.91;29
+973;GadgetPro Headphones Model #973;Electronics;Headphones;GadgetPro;595.15;416
+974;GlowUp Makeup Model #974;Beauty & Health;Makeup;GlowUp;151.48;114
+975;HomeEssentials Bedding Model #975;Home & Kitchen;Bedding;HomeEssentials;201.72;315
+976;ClassicFits Jackets Model #976;Clothing;Jackets;ClassicFits;80.18;257
+977;KitchenWiz Bedding Model #977;Home & Kitchen;Bedding;KitchenWiz;243.90;340
+978;ElectroBrand Laptops Model #978;Electronics;Laptops;ElectroBrand;1153.22;369
+979;GlowUp Vitamins Model #979;Beauty & Health;Vitamins;GlowUp;193.47;195
+980;EcoThreads T-Shirts Model #980;Clothing;T-Shirts;EcoThreads;65.08;3
+981;ElectroBrand Smartphones Model #981;Electronics;Smartphones;ElectroBrand;1671.91;281
+982;VitaBoost Vitamins Model #982;Beauty & Health;Vitamins;VitaBoost;40.33;21
+983;CozyLiving Cookware Model #983;Home & Kitchen;Cookware;CozyLiving;372.22;109
+984;EcoThreads Jeans Model #984;Clothing;Jeans;EcoThreads;240.31;314
+985;ClassicFits T-Shirts Model #985;Clothing;T-Shirts;ClassicFits;161.03;47
+986;PureHealth Makeup Model #986;Beauty & Health;Makeup;PureHealth;16.39;362
+987;EcoThreads T-Shirts Model #987;Clothing;T-Shirts;EcoThreads;117.63;384
+988;HomeEssentials Cookware Model #988;Home & Kitchen;Cookware;HomeEssentials;211.75;203
+989;GadgetPro Laptops Model #989;Electronics;Laptops;GadgetPro;1025.48;138
+990;CozyLiving Cookware Model #990;Home & Kitchen;Cookware;CozyLiving;480.27;233
+991;GlowUp Makeup Model #991;Beauty & Health;Makeup;GlowUp;156.67;217
+992;KitchenWiz Cookware Model #992;Home & Kitchen;Cookware;KitchenWiz;208.88;231
+993;UrbanWear Jeans Model #993;Clothing;Jeans;UrbanWear;278.27;259
+994;GadgetPro Headphones Model #994;Electronics;Headphones;GadgetPro;165.15;141
+995;ElectroBrand Laptops Model #995;Electronics;Laptops;ElectroBrand;1066.28;390
+996;VitaBoost Makeup Model #996;Beauty & Health;Makeup;VitaBoost;81.83;50
+997;CozyLiving Bedding Model #997;Home & Kitchen;Bedding;CozyLiving;283.11;404
+998;HomeEssentials Bedding Model #998;Home & Kitchen;Bedding;HomeEssentials;358.88;161
+999;ElectroBrand Smartphones Model #999;Electronics;Smartphones;ElectroBrand;1037.38;143
+1000;CozyLiving Decor Model #1000;Home & Kitchen;Decor;CozyLiving;386.17;2
+1001;CozyLiving Cookware Model #1001;Home & Kitchen;Cookware;CozyLiving;395.63;166
+1002;KitchenWiz Decor Model #1002;Home & Kitchen;Decor;KitchenWiz;385.02;66
+1003;GlowUp Skincare Model #1003;Beauty & Health;Skincare;GlowUp;62.73;320
+1004;KitchenWiz Decor Model #1004;Home & Kitchen;Decor;KitchenWiz;351.82;149
+1005;VitaBoost Skincare Model #1005;Beauty & Health;Skincare;VitaBoost;84.21;35
+1006;CozyLiving Cookware Model #1006;Home & Kitchen;Cookware;CozyLiving;487.24;464
+1007;CozyLiving Decor Model #1007;Home & Kitchen;Decor;CozyLiving;110.68;72
+1008;GadgetPro Headphones Model #1008;Electronics;Headphones;GadgetPro;1657.86;41
+1009;PureHealth Skincare Model #1009;Beauty & Health;Skincare;PureHealth;17.25;87
+1010;GadgetPro Laptops Model #1010;Electronics;Laptops;GadgetPro;1580.27;157
+1011;ClassicFits Jackets Model #1011;Clothing;Jackets;ClassicFits;41.15;43
+1012;PureHealth Vitamins Model #1012;Beauty & Health;Vitamins;PureHealth;110.82;251
+1013;GlowUp Vitamins Model #1013;Beauty & Health;Vitamins;GlowUp;45.16;31
+1014;KitchenWiz Bedding Model #1014;Home & Kitchen;Bedding;KitchenWiz;234.53;451
+1015;CozyLiving Bedding Model #1015;Home & Kitchen;Bedding;CozyLiving;364.88;322
+1016;VitaBoost Skincare Model #1016;Beauty & Health;Skincare;VitaBoost;10.85;436
+1017;UrbanWear Jackets Model #1017;Clothing;Jackets;UrbanWear;203.50;78
+1018;VitaBoost Vitamins Model #1018;Beauty & Health;Vitamins;VitaBoost;90.56;466
+1019;TechGiant Smartphones Model #1019;Electronics;Smartphones;TechGiant;1046.01;428
+1020;VitaBoost Makeup Model #1020;Beauty & Health;Makeup;VitaBoost;114.13;300
+1021;ClassicFits T-Shirts Model #1021;Clothing;T-Shirts;ClassicFits;243.25;156
+1022;KitchenWiz Decor Model #1022;Home & Kitchen;Decor;KitchenWiz;23.89;73
+1023;TechGiant Laptops Model #1023;Electronics;Laptops;TechGiant;1140.63;270
+1024;UrbanWear Jackets Model #1024;Clothing;Jackets;UrbanWear;52.32;117
+1025;GadgetPro Laptops Model #1025;Electronics;Laptops;GadgetPro;749.30;390
+1026;HomeEssentials Bedding Model #1026;Home & Kitchen;Bedding;HomeEssentials;368.66;14
+1027;CozyLiving Bedding Model #1027;Home & Kitchen;Bedding;CozyLiving;466.65;148
+1028;UrbanWear T-Shirts Model #1028;Clothing;T-Shirts;UrbanWear;33.99;449
+1029;KitchenWiz Cookware Model #1029;Home & Kitchen;Cookware;KitchenWiz;313.64;448
+1030;ClassicFits T-Shirts Model #1030;Clothing;T-Shirts;ClassicFits;209.96;42
+1031;HomeEssentials Decor Model #1031;Home & Kitchen;Decor;HomeEssentials;387.11;214
+1032;ClassicFits Jackets Model #1032;Clothing;Jackets;ClassicFits;237.43;88
+1033;UrbanWear T-Shirts Model #1033;Clothing;T-Shirts;UrbanWear;39.21;452
+1034;KitchenWiz Decor Model #1034;Home & Kitchen;Decor;KitchenWiz;398.03;44
+1035;KitchenWiz Bedding Model #1035;Home & Kitchen;Bedding;KitchenWiz;74.34;438
+1036;PureHealth Makeup Model #1036;Beauty & Health;Makeup;PureHealth;140.29;404
+1037;EcoThreads Jeans Model #1037;Clothing;Jeans;EcoThreads;108.63;79
+1038;PureHealth Skincare Model #1038;Beauty & Health;Skincare;PureHealth;166.40;80
+1039;UrbanWear T-Shirts Model #1039;Clothing;T-Shirts;UrbanWear;126.41;457
+1040;GlowUp Makeup Model #1040;Beauty & Health;Makeup;GlowUp;67.87;192
+1041;ElectroBrand Smartphones Model #1041;Electronics;Smartphones;ElectroBrand;684.30;8
+1042;ElectroBrand Laptops Model #1042;Electronics;Laptops;ElectroBrand;890.18;280
+1043;HomeEssentials Bedding Model #1043;Home & Kitchen;Bedding;HomeEssentials;297.27;354
+1044;CozyLiving Decor Model #1044;Home & Kitchen;Decor;CozyLiving;124.00;260
+1045;EcoThreads Jackets Model #1045;Clothing;Jackets;EcoThreads;269.38;13
+1046;CozyLiving Cookware Model #1046;Home & Kitchen;Cookware;CozyLiving;275.12;251
+1047;UrbanWear Jeans Model #1047;Clothing;Jeans;UrbanWear;29.33;88
+1048;KitchenWiz Bedding Model #1048;Home & Kitchen;Bedding;KitchenWiz;320.49;163
+1049;ElectroBrand Headphones Model #1049;Electronics;Headphones;ElectroBrand;896.40;113
+1050;EcoThreads Jackets Model #1050;Clothing;Jackets;EcoThreads;77.08;29
+1051;CozyLiving Bedding Model #1051;Home & Kitchen;Bedding;CozyLiving;478.81;322
+1052;GadgetPro Laptops Model #1052;Electronics;Laptops;GadgetPro;837.51;213
+1053;TechGiant Headphones Model #1053;Electronics;Headphones;TechGiant;1801.46;120
+1054;PureHealth Skincare Model #1054;Beauty & Health;Skincare;PureHealth;170.18;102
+1055;PureHealth Skincare Model #1055;Beauty & Health;Skincare;PureHealth;116.08;234
+1056;HomeEssentials Decor Model #1056;Home & Kitchen;Decor;HomeEssentials;46.28;83
+1057;UrbanWear Jackets Model #1057;Clothing;Jackets;UrbanWear;33.49;25
+1058;ElectroBrand Smartphones Model #1058;Electronics;Smartphones;ElectroBrand;819.91;399
+1059;HomeEssentials Bedding Model #1059;Home & Kitchen;Bedding;HomeEssentials;126.72;471
+1060;PureHealth Vitamins Model #1060;Beauty & Health;Vitamins;PureHealth;130.36;96
+1061;PureHealth Makeup Model #1061;Beauty & Health;Makeup;PureHealth;171.66;488
+1062;PureHealth Vitamins Model #1062;Beauty & Health;Vitamins;PureHealth;138.26;383
+1063;ElectroBrand Headphones Model #1063;Electronics;Headphones;ElectroBrand;928.08;257
+1064;PureHealth Skincare Model #1064;Beauty & Health;Skincare;PureHealth;96.72;493
+1065;CozyLiving Decor Model #1065;Home & Kitchen;Decor;CozyLiving;359.41;263
+1066;GadgetPro Headphones Model #1066;Electronics;Headphones;GadgetPro;1728.03;339
+1067;UrbanWear Jeans Model #1067;Clothing;Jeans;UrbanWear;107.82;256
+1068;GlowUp Vitamins Model #1068;Beauty & Health;Vitamins;GlowUp;89.35;18
+1069;ElectroBrand Smartphones Model #1069;Electronics;Smartphones;ElectroBrand;1649.24;150
+1070;PureHealth Vitamins Model #1070;Beauty & Health;Vitamins;PureHealth;133.76;347
+1071;EcoThreads Jeans Model #1071;Clothing;Jeans;EcoThreads;152.94;407
+1072;KitchenWiz Cookware Model #1072;Home & Kitchen;Cookware;KitchenWiz;111.87;295
+1073;TechGiant Laptops Model #1073;Electronics;Laptops;TechGiant;197.67;202
+1074;ElectroBrand Laptops Model #1074;Electronics;Laptops;ElectroBrand;1467.86;61
+1075;UrbanWear Jackets Model #1075;Clothing;Jackets;UrbanWear;209.98;205
+1076;EcoThreads T-Shirts Model #1076;Clothing;T-Shirts;EcoThreads;75.73;403
+1077;GadgetPro Headphones Model #1077;Electronics;Headphones;GadgetPro;493.32;430
+1078;EcoThreads T-Shirts Model #1078;Clothing;T-Shirts;EcoThreads;276.67;222
+1079;VitaBoost Makeup Model #1079;Beauty & Health;Makeup;VitaBoost;128.51;402
+1080;VitaBoost Vitamins Model #1080;Beauty & Health;Vitamins;VitaBoost;155.09;314
+1081;CozyLiving Cookware Model #1081;Home & Kitchen;Cookware;CozyLiving;191.40;370
+1082;ClassicFits T-Shirts Model #1082;Clothing;T-Shirts;ClassicFits;95.19;413
+1083;UrbanWear Jackets Model #1083;Clothing;Jackets;UrbanWear;217.72;118
+1084;VitaBoost Makeup Model #1084;Beauty & Health;Makeup;VitaBoost;149.65;416
+1085;EcoThreads Jeans Model #1085;Clothing;Jeans;EcoThreads;208.01;385
+1086;CozyLiving Bedding Model #1086;Home & Kitchen;Bedding;CozyLiving;389.07;459
+1087;KitchenWiz Bedding Model #1087;Home & Kitchen;Bedding;KitchenWiz;111.94;84
+1088;CozyLiving Cookware Model #1088;Home & Kitchen;Cookware;CozyLiving;479.49;114
+1089;ElectroBrand Headphones Model #1089;Electronics;Headphones;ElectroBrand;1354.15;414
+1090;EcoThreads Jackets Model #1090;Clothing;Jackets;EcoThreads;245.11;66
+1091;PureHealth Vitamins Model #1091;Beauty & Health;Vitamins;PureHealth;86.60;350
+1092;ElectroBrand Laptops Model #1092;Electronics;Laptops;ElectroBrand;1387.47;116
+1093;GadgetPro Smartphones Model #1093;Electronics;Smartphones;GadgetPro;771.57;21
+1094;TechGiant Headphones Model #1094;Electronics;Headphones;TechGiant;824.00;55
+1095;VitaBoost Makeup Model #1095;Beauty & Health;Makeup;VitaBoost;159.73;221
+1096;VitaBoost Vitamins Model #1096;Beauty & Health;Vitamins;VitaBoost;146.30;324
+1097;UrbanWear Jeans Model #1097;Clothing;Jeans;UrbanWear;154.40;246
+1098;GadgetPro Headphones Model #1098;Electronics;Headphones;GadgetPro;1272.52;464
+1099;UrbanWear T-Shirts Model #1099;Clothing;T-Shirts;UrbanWear;145.73;471
+1100;VitaBoost Makeup Model #1100;Beauty & Health;Makeup;VitaBoost;88.89;120
+1101;GadgetPro Smartphones Model #1101;Electronics;Smartphones;GadgetPro;1214.53;29
+1102;VitaBoost Vitamins Model #1102;Beauty & Health;Vitamins;VitaBoost;124.69;27
+1103;GadgetPro Smartphones Model #1103;Electronics;Smartphones;GadgetPro;1264.25;492
+1104;ClassicFits T-Shirts Model #1104;Clothing;T-Shirts;ClassicFits;64.88;465
+1105;ClassicFits Jeans Model #1105;Clothing;Jeans;ClassicFits;243.14;463
+1106;TechGiant Smartphones Model #1106;Electronics;Smartphones;TechGiant;1708.56;123
+1107;ElectroBrand Headphones Model #1107;Electronics;Headphones;ElectroBrand;600.84;297
+1108;VitaBoost Makeup Model #1108;Beauty & Health;Makeup;VitaBoost;142.64;218
+1109;UrbanWear Jeans Model #1109;Clothing;Jeans;UrbanWear;83.91;132
+1110;PureHealth Vitamins Model #1110;Beauty & Health;Vitamins;PureHealth;175.96;256
+1111;GadgetPro Smartphones Model #1111;Electronics;Smartphones;GadgetPro;1405.13;272
+1112;GadgetPro Headphones Model #1112;Electronics;Headphones;GadgetPro;1274.09;481
+1113;UrbanWear Jeans Model #1113;Clothing;Jeans;UrbanWear;171.59;153
+1114;HomeEssentials Cookware Model #1114;Home & Kitchen;Cookware;HomeEssentials;304.40;1
+1115;GlowUp Makeup Model #1115;Beauty & Health;Makeup;GlowUp;140.63;169
+1116;CozyLiving Cookware Model #1116;Home & Kitchen;Cookware;CozyLiving;111.53;345
+1117;VitaBoost Vitamins Model #1117;Beauty & Health;Vitamins;VitaBoost;65.04;175
+1118;UrbanWear Jackets Model #1118;Clothing;Jackets;UrbanWear;50.67;277
+1119;PureHealth Skincare Model #1119;Beauty & Health;Skincare;PureHealth;38.53;442
+1120;HomeEssentials Cookware Model #1120;Home & Kitchen;Cookware;HomeEssentials;29.18;262
+1121;KitchenWiz Bedding Model #1121;Home & Kitchen;Bedding;KitchenWiz;486.47;183
+1122;GlowUp Vitamins Model #1122;Beauty & Health;Vitamins;GlowUp;51.05;202
+1123;VitaBoost Skincare Model #1123;Beauty & Health;Skincare;VitaBoost;147.70;406
+1124;KitchenWiz Cookware Model #1124;Home & Kitchen;Cookware;KitchenWiz;430.11;422
+1125;VitaBoost Vitamins Model #1125;Beauty & Health;Vitamins;VitaBoost;163.61;226
+1126;TechGiant Headphones Model #1126;Electronics;Headphones;TechGiant;1789.11;96
+1127;PureHealth Makeup Model #1127;Beauty & Health;Makeup;PureHealth;47.78;219
+1128;GadgetPro Headphones Model #1128;Electronics;Headphones;GadgetPro;1539.51;333
+1129;GlowUp Skincare Model #1129;Beauty & Health;Skincare;GlowUp;69.94;181
+1130;UrbanWear T-Shirts Model #1130;Clothing;T-Shirts;UrbanWear;141.40;424
+1131;VitaBoost Skincare Model #1131;Beauty & Health;Skincare;VitaBoost;89.90;376
+1132;EcoThreads Jeans Model #1132;Clothing;Jeans;EcoThreads;266.22;310
+1133;UrbanWear T-Shirts Model #1133;Clothing;T-Shirts;UrbanWear;174.39;173
+1134;ClassicFits T-Shirts Model #1134;Clothing;T-Shirts;ClassicFits;96.37;247
+1135;PureHealth Makeup Model #1135;Beauty & Health;Makeup;PureHealth;122.33;156
+1136;HomeEssentials Decor Model #1136;Home & Kitchen;Decor;HomeEssentials;195.33;404
+1137;ElectroBrand Smartphones Model #1137;Electronics;Smartphones;ElectroBrand;1243.16;243
+1138;ClassicFits Jackets Model #1138;Clothing;Jackets;ClassicFits;107.53;186
+1139;TechGiant Smartphones Model #1139;Electronics;Smartphones;TechGiant;1557.13;80
+1140;PureHealth Makeup Model #1140;Beauty & Health;Makeup;PureHealth;169.08;227
+1141;GlowUp Vitamins Model #1141;Beauty & Health;Vitamins;GlowUp;147.67;242
+1142;UrbanWear Jackets Model #1142;Clothing;Jackets;UrbanWear;103.05;68
+1143;VitaBoost Skincare Model #1143;Beauty & Health;Skincare;VitaBoost;92.71;286
+1144;UrbanWear Jeans Model #1144;Clothing;Jeans;UrbanWear;161.41;334
+1145;TechGiant Laptops Model #1145;Electronics;Laptops;TechGiant;1510.35;229
+1146;CozyLiving Bedding Model #1146;Home & Kitchen;Bedding;CozyLiving;276.74;347
+1147;GadgetPro Smartphones Model #1147;Electronics;Smartphones;GadgetPro;870.90;27
+1148;GadgetPro Headphones Model #1148;Electronics;Headphones;GadgetPro;1692.19;437
+1149;VitaBoost Makeup Model #1149;Beauty & Health;Makeup;VitaBoost;33.29;272
+1150;TechGiant Smartphones Model #1150;Electronics;Smartphones;TechGiant;1549.27;450
+1151;VitaBoost Makeup Model #1151;Beauty & Health;Makeup;VitaBoost;29.17;141
+1152;PureHealth Vitamins Model #1152;Beauty & Health;Vitamins;PureHealth;76.95;461
+1153;KitchenWiz Cookware Model #1153;Home & Kitchen;Cookware;KitchenWiz;151.54;492
+1154;KitchenWiz Cookware Model #1154;Home & Kitchen;Cookware;KitchenWiz;41.62;457
+1155;EcoThreads Jackets Model #1155;Clothing;Jackets;EcoThreads;21.40;201
+1156;PureHealth Makeup Model #1156;Beauty & Health;Makeup;PureHealth;194.70;34
+1157;UrbanWear Jackets Model #1157;Clothing;Jackets;UrbanWear;241.09;358
+1158;UrbanWear T-Shirts Model #1158;Clothing;T-Shirts;UrbanWear;189.67;365
+1159;TechGiant Laptops Model #1159;Electronics;Laptops;TechGiant;1513.01;267
+1160;GadgetPro Smartphones Model #1160;Electronics;Smartphones;GadgetPro;1934.86;296
+1161;PureHealth Skincare Model #1161;Beauty & Health;Skincare;PureHealth;182.08;447
+1162;GadgetPro Laptops Model #1162;Electronics;Laptops;GadgetPro;1034.50;461
+1163;TechGiant Headphones Model #1163;Electronics;Headphones;TechGiant;1580.01;374
+1164;PureHealth Makeup Model #1164;Beauty & Health;Makeup;PureHealth;85.39;416
+1165;HomeEssentials Decor Model #1165;Home & Kitchen;Decor;HomeEssentials;411.03;430
+1166;EcoThreads Jeans Model #1166;Clothing;Jeans;EcoThreads;52.94;200
+1167;ElectroBrand Laptops Model #1167;Electronics;Laptops;ElectroBrand;1983.61;116
+1168;CozyLiving Bedding Model #1168;Home & Kitchen;Bedding;CozyLiving;461.92;314
+1169;HomeEssentials Decor Model #1169;Home & Kitchen;Decor;HomeEssentials;469.43;87
+1170;PureHealth Vitamins Model #1170;Beauty & Health;Vitamins;PureHealth;110.42;444
+1171;CozyLiving Cookware Model #1171;Home & Kitchen;Cookware;CozyLiving;134.44;31
+1172;KitchenWiz Decor Model #1172;Home & Kitchen;Decor;KitchenWiz;265.36;278
+1173;HomeEssentials Decor Model #1173;Home & Kitchen;Decor;HomeEssentials;490.86;277
+1174;KitchenWiz Decor Model #1174;Home & Kitchen;Decor;KitchenWiz;152.40;54
+1175;EcoThreads Jeans Model #1175;Clothing;Jeans;EcoThreads;246.26;193
+1176;PureHealth Skincare Model #1176;Beauty & Health;Skincare;PureHealth;11.70;122
+1177;ElectroBrand Smartphones Model #1177;Electronics;Smartphones;ElectroBrand;1402.36;318
+1178;PureHealth Skincare Model #1178;Beauty & Health;Skincare;PureHealth;152.37;442
+1179;PureHealth Vitamins Model #1179;Beauty & Health;Vitamins;PureHealth;25.25;252
+1180;PureHealth Vitamins Model #1180;Beauty & Health;Vitamins;PureHealth;16.07;402
+1181;GlowUp Makeup Model #1181;Beauty & Health;Makeup;GlowUp;187.95;244
+1182;PureHealth Skincare Model #1182;Beauty & Health;Skincare;PureHealth;197.45;18
+1183;EcoThreads Jeans Model #1183;Clothing;Jeans;EcoThreads;71.13;494
+1184;ClassicFits Jackets Model #1184;Clothing;Jackets;ClassicFits;279.87;39
+1185;HomeEssentials Decor Model #1185;Home & Kitchen;Decor;HomeEssentials;195.89;32
+1186;HomeEssentials Decor Model #1186;Home & Kitchen;Decor;HomeEssentials;307.33;402
+1187;KitchenWiz Bedding Model #1187;Home & Kitchen;Bedding;KitchenWiz;170.82;21
+1188;KitchenWiz Decor Model #1188;Home & Kitchen;Decor;KitchenWiz;36.86;377
+1189;ElectroBrand Laptops Model #1189;Electronics;Laptops;ElectroBrand;1286.74;494
+1190;GadgetPro Smartphones Model #1190;Electronics;Smartphones;GadgetPro;1311.59;471
+1191;ElectroBrand Smartphones Model #1191;Electronics;Smartphones;ElectroBrand;524.81;297
+1192;UrbanWear Jeans Model #1192;Clothing;Jeans;UrbanWear;127.55;30
+1193;ClassicFits Jackets Model #1193;Clothing;Jackets;ClassicFits;292.20;216
+1194;CozyLiving Cookware Model #1194;Home & Kitchen;Cookware;CozyLiving;433.24;42
+1195;GadgetPro Headphones Model #1195;Electronics;Headphones;GadgetPro;1667.19;327
+1196;KitchenWiz Decor Model #1196;Home & Kitchen;Decor;KitchenWiz;404.88;91
+1197;TechGiant Laptops Model #1197;Electronics;Laptops;TechGiant;310.39;403
+1198;UrbanWear Jackets Model #1198;Clothing;Jackets;UrbanWear;203.11;295
+1199;GlowUp Makeup Model #1199;Beauty & Health;Makeup;GlowUp;27.20;362
+1200;ClassicFits Jackets Model #1200;Clothing;Jackets;ClassicFits;155.77;453
+1201;PureHealth Skincare Model #1201;Beauty & Health;Skincare;PureHealth;28.72;162
+1202;ClassicFits T-Shirts Model #1202;Clothing;T-Shirts;ClassicFits;252.93;147
+1203;ElectroBrand Laptops Model #1203;Electronics;Laptops;ElectroBrand;562.90;218
+1204;GadgetPro Laptops Model #1204;Electronics;Laptops;GadgetPro;1031.93;387
+1205;ElectroBrand Laptops Model #1205;Electronics;Laptops;ElectroBrand;1902.73;191
+1206;UrbanWear Jeans Model #1206;Clothing;Jeans;UrbanWear;184.06;138
+1207;GadgetPro Smartphones Model #1207;Electronics;Smartphones;GadgetPro;1747.19;396
+1208;CozyLiving Bedding Model #1208;Home & Kitchen;Bedding;CozyLiving;337.44;196
+1209;HomeEssentials Cookware Model #1209;Home & Kitchen;Cookware;HomeEssentials;377.89;294
+1210;GlowUp Makeup Model #1210;Beauty & Health;Makeup;GlowUp;40.46;302
+1211;HomeEssentials Decor Model #1211;Home & Kitchen;Decor;HomeEssentials;412.95;473
+1212;KitchenWiz Bedding Model #1212;Home & Kitchen;Bedding;KitchenWiz;386.95;30
+1213;GadgetPro Headphones Model #1213;Electronics;Headphones;GadgetPro;887.30;78
+1214;VitaBoost Makeup Model #1214;Beauty & Health;Makeup;VitaBoost;46.14;204
+1215;VitaBoost Skincare Model #1215;Beauty & Health;Skincare;VitaBoost;173.24;37
+1216;PureHealth Makeup Model #1216;Beauty & Health;Makeup;PureHealth;109.67;210
+1217;GadgetPro Laptops Model #1217;Electronics;Laptops;GadgetPro;1768.29;261
+1218;PureHealth Makeup Model #1218;Beauty & Health;Makeup;PureHealth;194.68;313
+1219;ElectroBrand Laptops Model #1219;Electronics;Laptops;ElectroBrand;1233.14;64
+1220;VitaBoost Skincare Model #1220;Beauty & Health;Skincare;VitaBoost;33.61;440
+1221;TechGiant Laptops Model #1221;Electronics;Laptops;TechGiant;1331.34;357
+1222;KitchenWiz Decor Model #1222;Home & Kitchen;Decor;KitchenWiz;219.83;442
+1223;TechGiant Headphones Model #1223;Electronics;Headphones;TechGiant;500.05;367
+1224;VitaBoost Skincare Model #1224;Beauty & Health;Skincare;VitaBoost;116.56;131
+1225;CozyLiving Bedding Model #1225;Home & Kitchen;Bedding;CozyLiving;437.52;247
+1226;EcoThreads T-Shirts Model #1226;Clothing;T-Shirts;EcoThreads;36.32;228
+1227;KitchenWiz Decor Model #1227;Home & Kitchen;Decor;KitchenWiz;188.91;300
+1228;VitaBoost Vitamins Model #1228;Beauty & Health;Vitamins;VitaBoost;104.99;361
+1229;ClassicFits T-Shirts Model #1229;Clothing;T-Shirts;ClassicFits;255.60;493
+1230;VitaBoost Skincare Model #1230;Beauty & Health;Skincare;VitaBoost;178.60;477
+1231;EcoThreads T-Shirts Model #1231;Clothing;T-Shirts;EcoThreads;193.69;389
+1232;ClassicFits Jeans Model #1232;Clothing;Jeans;ClassicFits;251.13;344
+1233;CozyLiving Cookware Model #1233;Home & Kitchen;Cookware;CozyLiving;190.69;106
+1234;VitaBoost Makeup Model #1234;Beauty & Health;Makeup;VitaBoost;18.85;128
+1235;ClassicFits Jeans Model #1235;Clothing;Jeans;ClassicFits;121.58;334
+1236;KitchenWiz Bedding Model #1236;Home & Kitchen;Bedding;KitchenWiz;406.59;420
+1237;EcoThreads Jeans Model #1237;Clothing;Jeans;EcoThreads;188.75;135
+1238;UrbanWear Jackets Model #1238;Clothing;Jackets;UrbanWear;77.73;152
+1239;EcoThreads Jackets Model #1239;Clothing;Jackets;EcoThreads;223.58;302
+1240;HomeEssentials Decor Model #1240;Home & Kitchen;Decor;HomeEssentials;404.90;353
+1241;VitaBoost Makeup Model #1241;Beauty & Health;Makeup;VitaBoost;93.87;63
+1242;EcoThreads Jackets Model #1242;Clothing;Jackets;EcoThreads;168.84;216
+1243;ElectroBrand Headphones Model #1243;Electronics;Headphones;ElectroBrand;1221.56;3
+1244;CozyLiving Decor Model #1244;Home & Kitchen;Decor;CozyLiving;326.33;288
+1245;PureHealth Skincare Model #1245;Beauty & Health;Skincare;PureHealth;110.23;481
+1246;UrbanWear Jeans Model #1246;Clothing;Jeans;UrbanWear;248.87;100
+1247;KitchenWiz Cookware Model #1247;Home & Kitchen;Cookware;KitchenWiz;407.33;108
+1248;UrbanWear T-Shirts Model #1248;Clothing;T-Shirts;UrbanWear;112.91;338
+1249;KitchenWiz Decor Model #1249;Home & Kitchen;Decor;KitchenWiz;447.58;212
+1250;KitchenWiz Cookware Model #1250;Home & Kitchen;Cookware;KitchenWiz;306.99;343
+1251;PureHealth Skincare Model #1251;Beauty & Health;Skincare;PureHealth;44.30;44
+1252;TechGiant Headphones Model #1252;Electronics;Headphones;TechGiant;1732.43;188
+1253;TechGiant Headphones Model #1253;Electronics;Headphones;TechGiant;882.51;231
+1254;GlowUp Vitamins Model #1254;Beauty & Health;Vitamins;GlowUp;168.09;463
+1255;GlowUp Makeup Model #1255;Beauty & Health;Makeup;GlowUp;172.03;393
+1256;TechGiant Laptops Model #1256;Electronics;Laptops;TechGiant;1616.49;396
+1257;PureHealth Vitamins Model #1257;Beauty & Health;Vitamins;PureHealth;192.19;186
+1258;EcoThreads Jeans Model #1258;Clothing;Jeans;EcoThreads;242.26;143
+1259;VitaBoost Vitamins Model #1259;Beauty & Health;Vitamins;VitaBoost;183.13;109
+1260;ClassicFits T-Shirts Model #1260;Clothing;T-Shirts;ClassicFits;74.91;492
+1261;CozyLiving Decor Model #1261;Home & Kitchen;Decor;CozyLiving;186.67;222
+1262;GadgetPro Laptops Model #1262;Electronics;Laptops;GadgetPro;1002.43;35
+1263;GadgetPro Smartphones Model #1263;Electronics;Smartphones;GadgetPro;1798.29;70
+1264;GlowUp Skincare Model #1264;Beauty & Health;Skincare;GlowUp;15.92;143
+1265;CozyLiving Bedding Model #1265;Home & Kitchen;Bedding;CozyLiving;455.28;400
+1266;GlowUp Makeup Model #1266;Beauty & Health;Makeup;GlowUp;141.22;261
+1267;VitaBoost Vitamins Model #1267;Beauty & Health;Vitamins;VitaBoost;114.27;163
+1268;VitaBoost Skincare Model #1268;Beauty & Health;Skincare;VitaBoost;75.48;206
+1269;PureHealth Skincare Model #1269;Beauty & Health;Skincare;PureHealth;25.90;485
+1270;TechGiant Headphones Model #1270;Electronics;Headphones;TechGiant;1039.80;266
+1271;VitaBoost Makeup Model #1271;Beauty & Health;Makeup;VitaBoost;197.85;133
+1272;ClassicFits Jeans Model #1272;Clothing;Jeans;ClassicFits;132.10;316
+1273;VitaBoost Vitamins Model #1273;Beauty & Health;Vitamins;VitaBoost;96.18;122
+1274;VitaBoost Skincare Model #1274;Beauty & Health;Skincare;VitaBoost;181.80;96
+1275;ElectroBrand Smartphones Model #1275;Electronics;Smartphones;ElectroBrand;904.10;270
+1276;KitchenWiz Decor Model #1276;Home & Kitchen;Decor;KitchenWiz;402.05;458
+1277;VitaBoost Makeup Model #1277;Beauty & Health;Makeup;VitaBoost;67.80;90
+1278;PureHealth Vitamins Model #1278;Beauty & Health;Vitamins;PureHealth;109.24;180
+1279;VitaBoost Skincare Model #1279;Beauty & Health;Skincare;VitaBoost;159.05;123
+1280;ElectroBrand Headphones Model #1280;Electronics;Headphones;ElectroBrand;667.58;443
+1281;KitchenWiz Bedding Model #1281;Home & Kitchen;Bedding;KitchenWiz;275.33;256
+1282;HomeEssentials Cookware Model #1282;Home & Kitchen;Cookware;HomeEssentials;465.67;454
+1283;GlowUp Makeup Model #1283;Beauty & Health;Makeup;GlowUp;43.36;363
+1284;TechGiant Smartphones Model #1284;Electronics;Smartphones;TechGiant;218.21;232
+1285;CozyLiving Cookware Model #1285;Home & Kitchen;Cookware;CozyLiving;165.97;419
+1286;EcoThreads Jackets Model #1286;Clothing;Jackets;EcoThreads;195.13;228
+1287;VitaBoost Vitamins Model #1287;Beauty & Health;Vitamins;VitaBoost;166.12;456
+1288;HomeEssentials Bedding Model #1288;Home & Kitchen;Bedding;HomeEssentials;28.67;290
+1289;VitaBoost Vitamins Model #1289;Beauty & Health;Vitamins;VitaBoost;106.30;96
+1290;TechGiant Headphones Model #1290;Electronics;Headphones;TechGiant;582.54;428
+1291;EcoThreads Jeans Model #1291;Clothing;Jeans;EcoThreads;47.78;198
+1292;GlowUp Skincare Model #1292;Beauty & Health;Skincare;GlowUp;51.46;271
+1293;ClassicFits Jackets Model #1293;Clothing;Jackets;ClassicFits;247.86;313
+1294;TechGiant Headphones Model #1294;Electronics;Headphones;TechGiant;1725.06;435
+1295;KitchenWiz Decor Model #1295;Home & Kitchen;Decor;KitchenWiz;328.63;131
+1296;VitaBoost Makeup Model #1296;Beauty & Health;Makeup;VitaBoost;197.14;397
+1297;UrbanWear T-Shirts Model #1297;Clothing;T-Shirts;UrbanWear;168.81;356
+1298;CozyLiving Cookware Model #1298;Home & Kitchen;Cookware;CozyLiving;50.38;238
+1299;PureHealth Vitamins Model #1299;Beauty & Health;Vitamins;PureHealth;31.81;132
+1300;KitchenWiz Decor Model #1300;Home & Kitchen;Decor;KitchenWiz;48.81;336
+1301;TechGiant Smartphones Model #1301;Electronics;Smartphones;TechGiant;674.50;374
+1302;HomeEssentials Bedding Model #1302;Home & Kitchen;Bedding;HomeEssentials;496.12;284
+1303;ClassicFits Jeans Model #1303;Clothing;Jeans;ClassicFits;130.58;448
+1304;GlowUp Makeup Model #1304;Beauty & Health;Makeup;GlowUp;172.04;207
+1305;GlowUp Skincare Model #1305;Beauty & Health;Skincare;GlowUp;168.66;402
+1306;ElectroBrand Headphones Model #1306;Electronics;Headphones;ElectroBrand;1466.48;196
+1307;HomeEssentials Bedding Model #1307;Home & Kitchen;Bedding;HomeEssentials;399.54;399
+1308;CozyLiving Cookware Model #1308;Home & Kitchen;Cookware;CozyLiving;188.49;185
+1309;GadgetPro Headphones Model #1309;Electronics;Headphones;GadgetPro;192.08;186
+1310;UrbanWear Jackets Model #1310;Clothing;Jackets;UrbanWear;46.93;92
+1311;ClassicFits T-Shirts Model #1311;Clothing;T-Shirts;ClassicFits;293.70;72
+1312;VitaBoost Skincare Model #1312;Beauty & Health;Skincare;VitaBoost;34.99;408
+1313;VitaBoost Makeup Model #1313;Beauty & Health;Makeup;VitaBoost;104.92;484
+1314;PureHealth Skincare Model #1314;Beauty & Health;Skincare;PureHealth;22.50;249
+1315;UrbanWear Jackets Model #1315;Clothing;Jackets;UrbanWear;291.82;36
+1316;GadgetPro Headphones Model #1316;Electronics;Headphones;GadgetPro;289.80;240
+1317;KitchenWiz Cookware Model #1317;Home & Kitchen;Cookware;KitchenWiz;452.79;81
+1318;EcoThreads T-Shirts Model #1318;Clothing;T-Shirts;EcoThreads;61.40;197
+1319;KitchenWiz Bedding Model #1319;Home & Kitchen;Bedding;KitchenWiz;412.87;0
+1320;ElectroBrand Smartphones Model #1320;Electronics;Smartphones;ElectroBrand;754.35;28
+1321;VitaBoost Skincare Model #1321;Beauty & Health;Skincare;VitaBoost;116.32;212
+1322;TechGiant Smartphones Model #1322;Electronics;Smartphones;TechGiant;1906.33;398
+1323;VitaBoost Makeup Model #1323;Beauty & Health;Makeup;VitaBoost;169.66;243
+1324;CozyLiving Decor Model #1324;Home & Kitchen;Decor;CozyLiving;420.13;26
+1325;PureHealth Vitamins Model #1325;Beauty & Health;Vitamins;PureHealth;141.71;65
+1326;CozyLiving Bedding Model #1326;Home & Kitchen;Bedding;CozyLiving;69.74;471
+1327;KitchenWiz Decor Model #1327;Home & Kitchen;Decor;KitchenWiz;237.19;311
+1328;HomeEssentials Decor Model #1328;Home & Kitchen;Decor;HomeEssentials;496.26;247
+1329;CozyLiving Cookware Model #1329;Home & Kitchen;Cookware;CozyLiving;161.53;52
+1330;HomeEssentials Bedding Model #1330;Home & Kitchen;Bedding;HomeEssentials;161.17;272
+1331;CozyLiving Decor Model #1331;Home & Kitchen;Decor;CozyLiving;64.00;143
+1332;HomeEssentials Bedding Model #1332;Home & Kitchen;Bedding;HomeEssentials;246.99;224
+1333;TechGiant Laptops Model #1333;Electronics;Laptops;TechGiant;1197.36;351
+1334;ElectroBrand Headphones Model #1334;Electronics;Headphones;ElectroBrand;554.99;286
+1335;GlowUp Skincare Model #1335;Beauty & Health;Skincare;GlowUp;66.12;279
+1336;GlowUp Makeup Model #1336;Beauty & Health;Makeup;GlowUp;152.74;255
+1337;KitchenWiz Cookware Model #1337;Home & Kitchen;Cookware;KitchenWiz;99.80;295
+1338;GlowUp Skincare Model #1338;Beauty & Health;Skincare;GlowUp;139.38;360
+1339;TechGiant Headphones Model #1339;Electronics;Headphones;TechGiant;302.63;24
+1340;HomeEssentials Bedding Model #1340;Home & Kitchen;Bedding;HomeEssentials;322.77;126
+1341;TechGiant Headphones Model #1341;Electronics;Headphones;TechGiant;1918.43;54
+1342;ElectroBrand Headphones Model #1342;Electronics;Headphones;ElectroBrand;1215.35;62
+1343;EcoThreads T-Shirts Model #1343;Clothing;T-Shirts;EcoThreads;162.67;13
+1344;EcoThreads T-Shirts Model #1344;Clothing;T-Shirts;EcoThreads;229.41;211
+1345;GadgetPro Smartphones Model #1345;Electronics;Smartphones;GadgetPro;1428.00;92
+1346;EcoThreads Jeans Model #1346;Clothing;Jeans;EcoThreads;106.23;314
+1347;UrbanWear T-Shirts Model #1347;Clothing;T-Shirts;UrbanWear;114.83;458
+1348;HomeEssentials Cookware Model #1348;Home & Kitchen;Cookware;HomeEssentials;84.72;192
+1349;VitaBoost Makeup Model #1349;Beauty & Health;Makeup;VitaBoost;12.19;469
+1350;PureHealth Skincare Model #1350;Beauty & Health;Skincare;PureHealth;81.89;37
+1351;KitchenWiz Decor Model #1351;Home & Kitchen;Decor;KitchenWiz;429.63;7
+1352;ElectroBrand Laptops Model #1352;Electronics;Laptops;ElectroBrand;919.73;32
+1353;GlowUp Skincare Model #1353;Beauty & Health;Skincare;GlowUp;97.11;496
+1354;UrbanWear Jeans Model #1354;Clothing;Jeans;UrbanWear;227.79;40
+1355;KitchenWiz Cookware Model #1355;Home & Kitchen;Cookware;KitchenWiz;281.13;417
+1356;TechGiant Headphones Model #1356;Electronics;Headphones;TechGiant;864.25;468
+1357;PureHealth Makeup Model #1357;Beauty & Health;Makeup;PureHealth;157.88;117
+1358;EcoThreads Jeans Model #1358;Clothing;Jeans;EcoThreads;44.58;217
+1359;HomeEssentials Cookware Model #1359;Home & Kitchen;Cookware;HomeEssentials;462.20;239
+1360;CozyLiving Cookware Model #1360;Home & Kitchen;Cookware;CozyLiving;84.57;448
+1361;UrbanWear Jeans Model #1361;Clothing;Jeans;UrbanWear;244.32;216
+1362;EcoThreads Jeans Model #1362;Clothing;Jeans;EcoThreads;35.35;124
+1363;KitchenWiz Decor Model #1363;Home & Kitchen;Decor;KitchenWiz;47.41;102
+1364;GadgetPro Headphones Model #1364;Electronics;Headphones;GadgetPro;1506.79;395
+1365;TechGiant Smartphones Model #1365;Electronics;Smartphones;TechGiant;1408.27;352
+1366;PureHealth Makeup Model #1366;Beauty & Health;Makeup;PureHealth;136.16;313
+1367;VitaBoost Skincare Model #1367;Beauty & Health;Skincare;VitaBoost;50.88;107
+1368;HomeEssentials Decor Model #1368;Home & Kitchen;Decor;HomeEssentials;295.62;90
+1369;ElectroBrand Headphones Model #1369;Electronics;Headphones;ElectroBrand;1847.11;392
+1370;ClassicFits Jeans Model #1370;Clothing;Jeans;ClassicFits;297.60;280
+1371;TechGiant Laptops Model #1371;Electronics;Laptops;TechGiant;265.95;112
+1372;UrbanWear Jackets Model #1372;Clothing;Jackets;UrbanWear;77.89;177
+1373;HomeEssentials Decor Model #1373;Home & Kitchen;Decor;HomeEssentials;204.84;322
+1374;TechGiant Smartphones Model #1374;Electronics;Smartphones;TechGiant;770.42;189
+1375;CozyLiving Decor Model #1375;Home & Kitchen;Decor;CozyLiving;63.34;7
+1376;VitaBoost Vitamins Model #1376;Beauty & Health;Vitamins;VitaBoost;43.27;1
+1377;CozyLiving Decor Model #1377;Home & Kitchen;Decor;CozyLiving;261.48;246
+1378;ElectroBrand Laptops Model #1378;Electronics;Laptops;ElectroBrand;1332.16;195
+1379;TechGiant Smartphones Model #1379;Electronics;Smartphones;TechGiant;1123.25;383
+1380;GlowUp Makeup Model #1380;Beauty & Health;Makeup;GlowUp;21.54;223
+1381;HomeEssentials Bedding Model #1381;Home & Kitchen;Bedding;HomeEssentials;252.57;433
+1382;GlowUp Vitamins Model #1382;Beauty & Health;Vitamins;GlowUp;68.42;182
+1383;HomeEssentials Decor Model #1383;Home & Kitchen;Decor;HomeEssentials;27.39;435
+1384;ElectroBrand Headphones Model #1384;Electronics;Headphones;ElectroBrand;940.63;273
+1385;GlowUp Skincare Model #1385;Beauty & Health;Skincare;GlowUp;118.97;210
+1386;HomeEssentials Decor Model #1386;Home & Kitchen;Decor;HomeEssentials;202.17;482
+1387;VitaBoost Skincare Model #1387;Beauty & Health;Skincare;VitaBoost;115.51;441
+1388;ClassicFits Jeans Model #1388;Clothing;Jeans;ClassicFits;257.68;219
+1389;KitchenWiz Bedding Model #1389;Home & Kitchen;Bedding;KitchenWiz;210.90;423
+1390;EcoThreads T-Shirts Model #1390;Clothing;T-Shirts;EcoThreads;288.41;372
+1391;HomeEssentials Cookware Model #1391;Home & Kitchen;Cookware;HomeEssentials;368.81;403
+1392;TechGiant Smartphones Model #1392;Electronics;Smartphones;TechGiant;1160.13;64
+1393;TechGiant Laptops Model #1393;Electronics;Laptops;TechGiant;1444.95;428
+1394;HomeEssentials Bedding Model #1394;Home & Kitchen;Bedding;HomeEssentials;149.48;370
+1395;ElectroBrand Smartphones Model #1395;Electronics;Smartphones;ElectroBrand;1003.61;166
+1396;PureHealth Makeup Model #1396;Beauty & Health;Makeup;PureHealth;102.94;194
+1397;UrbanWear Jeans Model #1397;Clothing;Jeans;UrbanWear;240.55;375
+1398;EcoThreads T-Shirts Model #1398;Clothing;T-Shirts;EcoThreads;265.99;150
+1399;GlowUp Skincare Model #1399;Beauty & Health;Skincare;GlowUp;102.44;358
+1400;PureHealth Skincare Model #1400;Beauty & Health;Skincare;PureHealth;38.67;2
+1401;EcoThreads T-Shirts Model #1401;Clothing;T-Shirts;EcoThreads;82.36;387
+1402;PureHealth Vitamins Model #1402;Beauty & Health;Vitamins;PureHealth;88.43;202
+1403;ClassicFits Jackets Model #1403;Clothing;Jackets;ClassicFits;215.56;96
+1404;KitchenWiz Bedding Model #1404;Home & Kitchen;Bedding;KitchenWiz;167.67;246
+1405;GlowUp Vitamins Model #1405;Beauty & Health;Vitamins;GlowUp;48.01;296
+1406;EcoThreads Jeans Model #1406;Clothing;Jeans;EcoThreads;198.28;139
+1407;PureHealth Makeup Model #1407;Beauty & Health;Makeup;PureHealth;107.85;369
+1408;ClassicFits T-Shirts Model #1408;Clothing;T-Shirts;ClassicFits;198.27;413
+1409;EcoThreads Jeans Model #1409;Clothing;Jeans;EcoThreads;201.97;204
+1410;UrbanWear Jackets Model #1410;Clothing;Jackets;UrbanWear;170.38;98
+1411;EcoThreads T-Shirts Model #1411;Clothing;T-Shirts;EcoThreads;255.94;447
+1412;CozyLiving Cookware Model #1412;Home & Kitchen;Cookware;CozyLiving;258.67;21
+1413;GlowUp Vitamins Model #1413;Beauty & Health;Vitamins;GlowUp;147.37;240
+1414;CozyLiving Bedding Model #1414;Home & Kitchen;Bedding;CozyLiving;486.06;117
+1415;GlowUp Skincare Model #1415;Beauty & Health;Skincare;GlowUp;173.95;283
+1416;EcoThreads T-Shirts Model #1416;Clothing;T-Shirts;EcoThreads;123.96;51
+1417;KitchenWiz Bedding Model #1417;Home & Kitchen;Bedding;KitchenWiz;409.29;151
+1418;TechGiant Headphones Model #1418;Electronics;Headphones;TechGiant;1409.53;266
+1419;EcoThreads Jeans Model #1419;Clothing;Jeans;EcoThreads;272.57;104
+1420;ElectroBrand Headphones Model #1420;Electronics;Headphones;ElectroBrand;530.12;361
+1421;ClassicFits Jackets Model #1421;Clothing;Jackets;ClassicFits;179.84;362
+1422;EcoThreads Jackets Model #1422;Clothing;Jackets;EcoThreads;137.98;129
+1423;GadgetPro Smartphones Model #1423;Electronics;Smartphones;GadgetPro;1269.54;300
+1424;ElectroBrand Smartphones Model #1424;Electronics;Smartphones;ElectroBrand;355.21;447
+1425;UrbanWear Jackets Model #1425;Clothing;Jackets;UrbanWear;117.36;460
+1426;GadgetPro Laptops Model #1426;Electronics;Laptops;GadgetPro;503.40;334
+1427;UrbanWear T-Shirts Model #1427;Clothing;T-Shirts;UrbanWear;199.02;289
+1428;CozyLiving Bedding Model #1428;Home & Kitchen;Bedding;CozyLiving;395.92;39
+1429;PureHealth Skincare Model #1429;Beauty & Health;Skincare;PureHealth;33.35;260
+1430;EcoThreads Jackets Model #1430;Clothing;Jackets;EcoThreads;75.34;162
+1431;CozyLiving Decor Model #1431;Home & Kitchen;Decor;CozyLiving;108.44;92
+1432;HomeEssentials Cookware Model #1432;Home & Kitchen;Cookware;HomeEssentials;466.97;499
+1433;HomeEssentials Cookware Model #1433;Home & Kitchen;Cookware;HomeEssentials;489.73;496
+1434;TechGiant Headphones Model #1434;Electronics;Headphones;TechGiant;503.42;163
+1435;GlowUp Makeup Model #1435;Beauty & Health;Makeup;GlowUp;130.10;246
+1436;PureHealth Skincare Model #1436;Beauty & Health;Skincare;PureHealth;105.53;170
+1437;GlowUp Vitamins Model #1437;Beauty & Health;Vitamins;GlowUp;170.78;219
+1438;PureHealth Makeup Model #1438;Beauty & Health;Makeup;PureHealth;152.37;160
+1439;ClassicFits Jackets Model #1439;Clothing;Jackets;ClassicFits;107.01;378
+1440;VitaBoost Skincare Model #1440;Beauty & Health;Skincare;VitaBoost;170.43;374
+1441;ClassicFits Jackets Model #1441;Clothing;Jackets;ClassicFits;250.96;336
+1442;CozyLiving Decor Model #1442;Home & Kitchen;Decor;CozyLiving;185.96;284
+1443;ClassicFits Jeans Model #1443;Clothing;Jeans;ClassicFits;155.09;281
+1444;PureHealth Makeup Model #1444;Beauty & Health;Makeup;PureHealth;70.08;326
+1445;EcoThreads T-Shirts Model #1445;Clothing;T-Shirts;EcoThreads;38.09;334
+1446;CozyLiving Bedding Model #1446;Home & Kitchen;Bedding;CozyLiving;371.87;279
+1447;PureHealth Makeup Model #1447;Beauty & Health;Makeup;PureHealth;27.82;480
+1448;CozyLiving Cookware Model #1448;Home & Kitchen;Cookware;CozyLiving;190.76;338
+1449;ClassicFits T-Shirts Model #1449;Clothing;T-Shirts;ClassicFits;25.16;243
+1450;UrbanWear Jackets Model #1450;Clothing;Jackets;UrbanWear;131.87;25
+1451;TechGiant Laptops Model #1451;Electronics;Laptops;TechGiant;1788.83;21
+1452;TechGiant Headphones Model #1452;Electronics;Headphones;TechGiant;159.66;95
+1453;CozyLiving Cookware Model #1453;Home & Kitchen;Cookware;CozyLiving;437.34;189
+1454;GlowUp Skincare Model #1454;Beauty & Health;Skincare;GlowUp;194.16;27
+1455;GadgetPro Laptops Model #1455;Electronics;Laptops;GadgetPro;1312.23;267
+1456;UrbanWear Jackets Model #1456;Clothing;Jackets;UrbanWear;283.72;494
+1457;PureHealth Makeup Model #1457;Beauty & Health;Makeup;PureHealth;117.49;474
+1458;CozyLiving Bedding Model #1458;Home & Kitchen;Bedding;CozyLiving;182.09;391
