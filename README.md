@@ -63,4 +63,5 @@ Navigate to the repository folder and double-click the E-commerce 2.0.pbix file 
 4. **Connect to your Local Server:**
 In Power BI, click on Transform Data -> Data Source Settings. Update the SQL Server credentials to point to your local server instance, then click Close & Apply to refresh the data.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+📄 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
